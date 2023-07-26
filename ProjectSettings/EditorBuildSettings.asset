@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Mindport/VR Builder/Add-ons/Animations/Demo/Scenes/VR Builder Demo
+      - Animations.unity
+    guid: dde28a15244a9314badb5bd1ef9c3c77
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7585211d89709dd4aa7ff16ca3346bec, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: daba946e337849647a6fcd419684a98d, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e8e2fc2e575c96c4db354f77726d5858, type: 2}
