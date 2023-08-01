@@ -5829,7 +5829,7 @@
               "$id": "1056",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
               "LastSelectedStep": {
-                "$ref": "180"
+                "$ref": "24"
               },
               "EntryNodePosition": {
                 "x": 0.0,
@@ -5874,7 +5874,7 @@
               "$id": "1060",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
               "LastSelectedStep": {
-                "$ref": "586"
+                "$ref": "217"
               },
               "EntryNodePosition": {
                 "x": 0.0,
