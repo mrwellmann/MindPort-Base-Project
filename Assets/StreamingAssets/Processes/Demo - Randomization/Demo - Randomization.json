@@ -21,7 +21,7 @@
             "y": -3.19999886
           },
           "StepType": "randomBranch",
-          "Guid": "73498e77-91ec-470d-8dc5-68488b8b5d36"
+          "Guid": "90210f69-0ebb-4e16-9ff4-9f3bce398444"
         },
         "Data": {
           "$id": "6",
@@ -87,7 +87,7 @@
                       },
                       "TargetStep": {
                         "$id": "20",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "21",
@@ -97,7 +97,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "df222016-deb9-400f-896d-af0fa5794a6e"
+                          "Guid": "d8494d5c-0abf-4f57-a0e5-e5765da5812f"
                         },
                         "Parent": null
                       },
@@ -132,7 +132,7 @@
                       },
                       "TargetStep": {
                         "$id": "27",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "28",
@@ -142,7 +142,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "1791306f-4369-41b0-88a7-2aeccb302171"
+                          "Guid": "4ae37e75-9ab2-4c9e-981c-8c7f55cbc2ab"
                         },
                         "Parent": null
                       },
@@ -177,7 +177,7 @@
                       },
                       "TargetStep": {
                         "$id": "34",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "35",
@@ -187,7 +187,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "0fa1ca81-e75e-436f-8ebb-d5ef92c45e7a"
+                          "Guid": "e5debe15-edb5-44d2-9b93-9b78eefedacd"
                         },
                         "Parent": null
                       },
@@ -236,7 +236,7 @@
             "y": -68.0
           },
           "StepType": "default",
-          "Guid": "df222016-deb9-400f-896d-af0fa5794a6e"
+          "Guid": "d8494d5c-0abf-4f57-a0e5-e5765da5812f"
         },
         "Data": {
           "$id": "43",
@@ -348,7 +348,7 @@
                       },
                       "TargetStep": {
                         "$id": "65",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "66",
@@ -358,7 +358,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "16d288c6-72a9-4a31-9a98-b2bcae54d3e8"
+                          "Guid": "a4081ac9-08f8-458f-b827-57ee97a03019"
                         },
                         "Parent": null
                       },
@@ -407,7 +407,7 @@
             "y": 19.2
           },
           "StepType": "default",
-          "Guid": "1791306f-4369-41b0-88a7-2aeccb302171"
+          "Guid": "4ae37e75-9ab2-4c9e-981c-8c7f55cbc2ab"
         },
         "Data": {
           "$id": "74",
@@ -519,7 +519,7 @@
                       },
                       "TargetStep": {
                         "$id": "96",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "97",
@@ -529,7 +529,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "d6c0892c-4d31-4750-9a46-1d52256c2ac5"
+                          "Guid": "c21d6da2-fdbe-44da-8f75-450da7955e4d"
                         },
                         "Parent": null
                       },
@@ -578,7 +578,7 @@
             "y": 103.2
           },
           "StepType": "default",
-          "Guid": "0fa1ca81-e75e-436f-8ebb-d5ef92c45e7a"
+          "Guid": "e5debe15-edb5-44d2-9b93-9b78eefedacd"
         },
         "Data": {
           "$id": "105",
@@ -690,7 +690,7 @@
                       },
                       "TargetStep": {
                         "$id": "127",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "128",
@@ -700,7 +700,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "e5ec198e-a663-4144-9cae-fa4399910de0"
+                          "Guid": "67176d20-9072-4ee3-bb87-98c1ac9d1e2b"
                         },
                         "Parent": null
                       },
@@ -749,7 +749,7 @@
             "y": -68.0
           },
           "StepType": "default",
-          "Guid": "16d288c6-72a9-4a31-9a98-b2bcae54d3e8"
+          "Guid": "a4081ac9-08f8-458f-b827-57ee97a03019"
         },
         "Data": {
           "$id": "136",
@@ -775,7 +775,9 @@
                       "AudioData": {
                         "$id": "142",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "This car hasn’t been used in a while and the tires have low pressure. Inflate them to 32 psi on the front, and 30 on the rear."
+                        "LocalizationTable": "",
+                        "Text": "This car hasn’t been used in a while and the tires have low pressure. Inflate them to 32 psi on the front, and 30 on the rear.",
+                        "Key": "This car hasn’t been used in a while and the tires have low pressure. Inflate them to 32 psi on the front, and 30 on the rear."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -870,7 +872,7 @@
                       },
                       "TargetStep": {
                         "$id": "161",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "162",
@@ -880,7 +882,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "72af0cbc-36fd-4c10-bd81-7e9110658b35"
+                          "Guid": "6e44821b-6292-4113-ab2b-7adcea37a44e"
                         },
                         "Parent": null
                       },
@@ -929,7 +931,7 @@
             "y": 18.4000015
           },
           "StepType": "default",
-          "Guid": "d6c0892c-4d31-4750-9a46-1d52256c2ac5"
+          "Guid": "c21d6da2-fdbe-44da-8f75-450da7955e4d"
         },
         "Data": {
           "$id": "170",
@@ -955,7 +957,9 @@
                       "AudioData": {
                         "$id": "176",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "It’s hot season and the pressure in the tires is too high. Reduce it to 28 psi in the back and 30 in the front. "
+                        "LocalizationTable": "",
+                        "Text": "It’s hot season and the pressure in the tires is too high. Reduce it to 28 psi in the back and 30 in the front. ",
+                        "Key": "It’s hot season and the pressure in the tires is too high. Reduce it to 28 psi in the back and 30 in the front. "
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -1050,7 +1054,7 @@
                       },
                       "TargetStep": {
                         "$id": "195",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "196",
@@ -1060,7 +1064,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "72af0cbc-36fd-4c10-bd81-7e9110658b35"
+                          "Guid": "6e44821b-6292-4113-ab2b-7adcea37a44e"
                         },
                         "Parent": null
                       },
@@ -1109,7 +1113,7 @@
             "y": 103.2
           },
           "StepType": "default",
-          "Guid": "e5ec198e-a663-4144-9cae-fa4399910de0"
+          "Guid": "67176d20-9072-4ee3-bb87-98c1ac9d1e2b"
         },
         "Data": {
           "$id": "204",
@@ -1135,7 +1139,9 @@
                       "AudioData": {
                         "$id": "210",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "The rear left tire has just been replaced but it could have the wrong pressure. Check the other rear tire and make them match."
+                        "LocalizationTable": "",
+                        "Text": "The rear left tire has just been replaced but it could have the wrong pressure. Check the other rear tire and make them match.",
+                        "Key": "The rear left tire has just been replaced but it could have the wrong pressure. Check the other rear tire and make them match."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -1230,7 +1236,7 @@
                       },
                       "TargetStep": {
                         "$id": "229",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "230",
@@ -1240,7 +1246,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "72af0cbc-36fd-4c10-bd81-7e9110658b35"
+                          "Guid": "6e44821b-6292-4113-ab2b-7adcea37a44e"
                         },
                         "Parent": null
                       },
@@ -1289,7 +1295,7 @@
             "y": 17.6000023
           },
           "StepType": "default",
-          "Guid": "72af0cbc-36fd-4c10-bd81-7e9110658b35"
+          "Guid": "6e44821b-6292-4113-ab2b-7adcea37a44e"
         },
         "Data": {
           "$id": "238",
@@ -1315,7 +1321,9 @@
                       "AudioData": {
                         "$id": "244",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "When you are done, put the tool in the box to proceed with evaluation."
+                        "LocalizationTable": "",
+                        "Text": "When you are done, put the tool in the box to proceed with evaluation.",
+                        "Key": "When you are done, put the tool in the box to proceed with evaluation."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -1552,7 +1560,7 @@
             "y": -3.19999886
           },
           "StepType": "default",
-          "Guid": "df3b4580-ad11-4227-b62c-c18574a3a12d"
+          "Guid": "b244a60a-5248-4265-94f3-3bf5c17ce5f7"
         },
         "Data": {
           "$id": "288",
@@ -1578,7 +1586,9 @@
                       "AudioData": {
                         "$id": "294",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Welcome to the demo scene for the Randomization add-on for VR Builder. You will need to set the tires pressure on the car nearby. The scenario is randomized every time. Grab the pressure tool to begin."
+                        "LocalizationTable": "",
+                        "Text": "Welcome to the demo scene for the Randomization add-on for VR Builder. You will need to set the tires pressure on the car nearby. The scenario is randomized every time. Grab the pressure tool to begin.",
+                        "Key": "Welcome to the demo scene for the Randomization add-on for VR Builder. You will need to set the tires pressure on the car nearby. The scenario is randomized every time. Grab the pressure tool to begin."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -1630,7 +1640,7 @@
                       },
                       "TargetStep": {
                         "$id": "304",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "305",
@@ -1640,7 +1650,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "73498e77-91ec-470d-8dc5-68488b8b5d36"
+                          "Guid": "90210f69-0ebb-4e16-9ff4-9f3bce398444"
                         },
                         "Parent": null
                       },
@@ -1755,7 +1765,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "f6a41654-f30d-4243-8fe1-c6a555a7a6de"
+          "Guid": "94c05f6d-873a-4c6d-8590-59e30a7819cc"
         },
         "Data": {
           "$id": "325",
@@ -1827,7 +1837,7 @@
                       },
                       "TargetStep": {
                         "$id": "340",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "341",
@@ -1837,7 +1847,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "9544bc66-864b-4417-bcaf-8a84f9e34e2f"
+                          "Guid": "02a8e3f3-f97b-47a5-9822-70faadd0f126"
                         },
                         "Parent": null
                       },
@@ -1954,7 +1964,7 @@
                       },
                       "TargetStep": {
                         "$id": "362",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "363",
@@ -1964,7 +1974,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "0cf5e623-ca01-4054-a708-987c8e4afb57"
+                          "Guid": "60d9fd1f-f87f-4f8f-9a60-c5749da03a2b"
                         },
                         "Parent": null
                       },
@@ -2043,7 +2053,7 @@
                       },
                       "TargetStep": {
                         "$id": "376",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "377",
@@ -2053,7 +2063,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "6acb4ac1-553d-4da0-8734-9af4335ce04d"
+                          "Guid": "ec1cb25a-2375-41a0-bfa7-585fab7f4b65"
                         },
                         "Parent": null
                       },
@@ -2143,7 +2153,7 @@
             "y": -112.0
           },
           "StepType": "default",
-          "Guid": "9544bc66-864b-4417-bcaf-8a84f9e34e2f"
+          "Guid": "02a8e3f3-f97b-47a5-9822-70faadd0f126"
         },
         "Data": {
           "$id": "392",
@@ -2169,7 +2179,9 @@
                       "AudioData": {
                         "$id": "398",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Pressure on the front left tyre is too low."
+                        "LocalizationTable": "",
+                        "Text": "Pressure on the front left tyre is too low.",
+                        "Key": "Pressure on the front left tyre is too low."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -2219,7 +2231,7 @@
                       },
                       "TargetStep": {
                         "$id": "408",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "409",
@@ -2229,7 +2241,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "6acb4ac1-553d-4da0-8734-9af4335ce04d"
+                          "Guid": "ec1cb25a-2375-41a0-bfa7-585fab7f4b65"
                         },
                         "Parent": null
                       },
@@ -2278,7 +2290,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "6acb4ac1-553d-4da0-8734-9af4335ce04d"
+          "Guid": "ec1cb25a-2375-41a0-bfa7-585fab7f4b65"
         },
         "Data": {
           "$id": "417",
@@ -2350,7 +2362,7 @@
                       },
                       "TargetStep": {
                         "$id": "432",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "433",
@@ -2360,7 +2372,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "6420831f-059b-4375-8346-a851383249d2"
+                          "Guid": "b6016f6b-4634-4bca-b0e4-bb6599e5f984"
                         },
                         "Parent": null
                       },
@@ -2477,7 +2489,7 @@
                       },
                       "TargetStep": {
                         "$id": "454",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "455",
@@ -2487,7 +2499,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "e5b19133-7ce3-4be8-bc61-64fd22354fc8"
+                          "Guid": "dd334e76-d351-406f-b386-e22306b80778"
                         },
                         "Parent": null
                       },
@@ -2566,7 +2578,7 @@
                       },
                       "TargetStep": {
                         "$id": "468",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "469",
@@ -2576,7 +2588,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "44087282-9839-4a63-b867-6cd7151fe5f0"
+                          "Guid": "f3bf35d0-95b4-434f-9460-88ef2267474b"
                         },
                         "Parent": null
                       },
@@ -2666,7 +2678,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "b2536970-28f6-48ac-966f-5f41e1fcd3c6"
+          "Guid": "c9b3869d-435c-486d-8524-9e2b458f756c"
         },
         "Data": {
           "$id": "484",
@@ -2738,7 +2750,7 @@
                       },
                       "TargetStep": {
                         "$id": "499",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "500",
@@ -2748,7 +2760,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "4abbd5b0-3167-4342-b994-79ca5af1efcc"
+                          "Guid": "bc9c1d60-978a-4e07-9253-1799cdb700cf"
                         },
                         "Parent": null
                       },
@@ -2865,7 +2877,7 @@
                       },
                       "TargetStep": {
                         "$id": "521",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "522",
@@ -2875,7 +2887,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "633d5356-b415-43e7-a1bd-a31fc1b9bfe7"
+                          "Guid": "fdb3d414-b90b-4143-a446-5b62e4a23525"
                         },
                         "Parent": null
                       },
@@ -2954,7 +2966,7 @@
                       },
                       "TargetStep": {
                         "$id": "535",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "536",
@@ -2964,7 +2976,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "cfcf9a04-d7c1-4b0b-abda-bbef3ef6dc97"
+                          "Guid": "55438e11-4a94-49fa-992f-618ee45bf867"
                         },
                         "Parent": null
                       },
@@ -3054,7 +3066,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "44087282-9839-4a63-b867-6cd7151fe5f0"
+          "Guid": "f3bf35d0-95b4-434f-9460-88ef2267474b"
         },
         "Data": {
           "$id": "551",
@@ -3126,7 +3138,7 @@
                       },
                       "TargetStep": {
                         "$id": "566",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "567",
@@ -3136,7 +3148,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "01ef72ca-0a1b-4bf7-9c88-dca9e8026826"
+                          "Guid": "226a3d87-ddda-4d33-9bcc-bf9d84c356a4"
                         },
                         "Parent": null
                       },
@@ -3253,7 +3265,7 @@
                       },
                       "TargetStep": {
                         "$id": "588",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "589",
@@ -3263,7 +3275,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "e97f2597-6238-48a0-9ad7-7674531e61f1"
+                          "Guid": "77b7b0a5-538b-4666-a025-7fcd75ed5fe7"
                         },
                         "Parent": null
                       },
@@ -3342,7 +3354,7 @@
                       },
                       "TargetStep": {
                         "$id": "602",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "603",
@@ -3352,7 +3364,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "b2536970-28f6-48ac-966f-5f41e1fcd3c6"
+                          "Guid": "c9b3869d-435c-486d-8524-9e2b458f756c"
                         },
                         "Parent": null
                       },
@@ -3442,7 +3454,7 @@
             "y": -24.8000011
           },
           "StepType": "default",
-          "Guid": "0cf5e623-ca01-4054-a708-987c8e4afb57"
+          "Guid": "60d9fd1f-f87f-4f8f-9a60-c5749da03a2b"
         },
         "Data": {
           "$id": "618",
@@ -3468,7 +3480,9 @@
                       "AudioData": {
                         "$id": "624",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Pressure on the front left tyre is too high."
+                        "LocalizationTable": "",
+                        "Text": "Pressure on the front left tyre is too high.",
+                        "Key": "Pressure on the front left tyre is too high."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3518,7 +3532,7 @@
                       },
                       "TargetStep": {
                         "$id": "634",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "635",
@@ -3528,7 +3542,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "6acb4ac1-553d-4da0-8734-9af4335ce04d"
+                          "Guid": "ec1cb25a-2375-41a0-bfa7-585fab7f4b65"
                         },
                         "Parent": null
                       },
@@ -3577,7 +3591,7 @@
             "y": -112.0
           },
           "StepType": "default",
-          "Guid": "4abbd5b0-3167-4342-b994-79ca5af1efcc"
+          "Guid": "bc9c1d60-978a-4e07-9253-1799cdb700cf"
         },
         "Data": {
           "$id": "643",
@@ -3603,7 +3617,9 @@
                       "AudioData": {
                         "$id": "649",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Pressure on the rear right tyre is too low."
+                        "LocalizationTable": "",
+                        "Text": "Pressure on the rear right tyre is too low.",
+                        "Key": "Pressure on the rear right tyre is too low."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3653,7 +3669,7 @@
                       },
                       "TargetStep": {
                         "$id": "659",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "660",
@@ -3663,7 +3679,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "cfcf9a04-d7c1-4b0b-abda-bbef3ef6dc97"
+                          "Guid": "55438e11-4a94-49fa-992f-618ee45bf867"
                         },
                         "Parent": null
                       },
@@ -3712,7 +3728,7 @@
             "y": -25.6
           },
           "StepType": "default",
-          "Guid": "633d5356-b415-43e7-a1bd-a31fc1b9bfe7"
+          "Guid": "fdb3d414-b90b-4143-a446-5b62e4a23525"
         },
         "Data": {
           "$id": "668",
@@ -3738,7 +3754,9 @@
                       "AudioData": {
                         "$id": "674",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Pressure on the rear right tyre is too high."
+                        "LocalizationTable": "",
+                        "Text": "Pressure on the rear right tyre is too high.",
+                        "Key": "Pressure on the rear right tyre is too high."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3788,7 +3806,7 @@
                       },
                       "TargetStep": {
                         "$id": "684",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "685",
@@ -3798,7 +3816,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "cfcf9a04-d7c1-4b0b-abda-bbef3ef6dc97"
+                          "Guid": "55438e11-4a94-49fa-992f-618ee45bf867"
                         },
                         "Parent": null
                       },
@@ -3847,7 +3865,7 @@
             "y": -111.2
           },
           "StepType": "default",
-          "Guid": "01ef72ca-0a1b-4bf7-9c88-dca9e8026826"
+          "Guid": "226a3d87-ddda-4d33-9bcc-bf9d84c356a4"
         },
         "Data": {
           "$id": "693",
@@ -3873,7 +3891,9 @@
                       "AudioData": {
                         "$id": "699",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Pressure on the rear left tyre is too low."
+                        "LocalizationTable": "",
+                        "Text": "Pressure on the rear left tyre is too low.",
+                        "Key": "Pressure on the rear left tyre is too low."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3923,7 +3943,7 @@
                       },
                       "TargetStep": {
                         "$id": "709",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "710",
@@ -3933,7 +3953,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "b2536970-28f6-48ac-966f-5f41e1fcd3c6"
+                          "Guid": "c9b3869d-435c-486d-8524-9e2b458f756c"
                         },
                         "Parent": null
                       },
@@ -3982,7 +4002,7 @@
             "y": -24.8000011
           },
           "StepType": "default",
-          "Guid": "e97f2597-6238-48a0-9ad7-7674531e61f1"
+          "Guid": "77b7b0a5-538b-4666-a025-7fcd75ed5fe7"
         },
         "Data": {
           "$id": "718",
@@ -4008,7 +4028,9 @@
                       "AudioData": {
                         "$id": "724",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Pressure on the rear left tyre is too high."
+                        "LocalizationTable": "",
+                        "Text": "Pressure on the rear left tyre is too high.",
+                        "Key": "Pressure on the rear left tyre is too high."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -4058,7 +4080,7 @@
                       },
                       "TargetStep": {
                         "$id": "734",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "735",
@@ -4068,7 +4090,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "b2536970-28f6-48ac-966f-5f41e1fcd3c6"
+                          "Guid": "c9b3869d-435c-486d-8524-9e2b458f756c"
                         },
                         "Parent": null
                       },
@@ -4117,7 +4139,7 @@
             "y": -112.0
           },
           "StepType": "default",
-          "Guid": "6420831f-059b-4375-8346-a851383249d2"
+          "Guid": "b6016f6b-4634-4bca-b0e4-bb6599e5f984"
         },
         "Data": {
           "$id": "743",
@@ -4143,7 +4165,9 @@
                       "AudioData": {
                         "$id": "749",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Pressure on the front right tyre is too low."
+                        "LocalizationTable": "",
+                        "Text": "Pressure on the front right tyre is too low.",
+                        "Key": "Pressure on the front right tyre is too low."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -4193,7 +4217,7 @@
                       },
                       "TargetStep": {
                         "$id": "759",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "760",
@@ -4203,7 +4227,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "44087282-9839-4a63-b867-6cd7151fe5f0"
+                          "Guid": "f3bf35d0-95b4-434f-9460-88ef2267474b"
                         },
                         "Parent": null
                       },
@@ -4252,7 +4276,7 @@
             "y": -24.8000011
           },
           "StepType": "default",
-          "Guid": "e5b19133-7ce3-4be8-bc61-64fd22354fc8"
+          "Guid": "dd334e76-d351-406f-b386-e22306b80778"
         },
         "Data": {
           "$id": "768",
@@ -4278,7 +4302,9 @@
                       "AudioData": {
                         "$id": "774",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Pressure on the front right tyre is too high."
+                        "LocalizationTable": "",
+                        "Text": "Pressure on the front right tyre is too high.",
+                        "Key": "Pressure on the front right tyre is too high."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -4328,7 +4354,7 @@
                       },
                       "TargetStep": {
                         "$id": "784",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "785",
@@ -4338,7 +4364,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "44087282-9839-4a63-b867-6cd7151fe5f0"
+                          "Guid": "f3bf35d0-95b4-434f-9460-88ef2267474b"
                         },
                         "Parent": null
                       },
@@ -4387,7 +4413,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "cfcf9a04-d7c1-4b0b-abda-bbef3ef6dc97"
+          "Guid": "55438e11-4a94-49fa-992f-618ee45bf867"
         },
         "Data": {
           "$id": "793",
@@ -4459,7 +4485,7 @@
                       },
                       "TargetStep": {
                         "$id": "808",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "809",
@@ -4469,7 +4495,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "56619904-6f99-4254-9748-e138b80a1076"
+                          "Guid": "c0fbe657-7c03-458c-9076-6cc847909c6b"
                         },
                         "Parent": null
                       },
@@ -4557,7 +4583,7 @@
                       },
                       "TargetStep": {
                         "$id": "825",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "826",
@@ -4567,7 +4593,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "b8763dd9-741d-4c44-ae22-1993cfec8ae6"
+                          "Guid": "9b7aece3-0233-420c-8fd4-8fd9746d1d63"
                         },
                         "Parent": null
                       },
@@ -4657,7 +4683,7 @@
             "y": -63.2
           },
           "StepType": "default",
-          "Guid": "56619904-6f99-4254-9748-e138b80a1076"
+          "Guid": "c0fbe657-7c03-458c-9076-6cc847909c6b"
         },
         "Data": {
           "$id": "841",
@@ -4683,7 +4709,9 @@
                       "AudioData": {
                         "$id": "847",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Congratulations! All tires have been set correctly."
+                        "LocalizationTable": "",
+                        "Text": "Congratulations! All tires have been set correctly.",
+                        "Key": "Congratulations! All tires have been set correctly."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -4781,7 +4809,7 @@
             "y": 86.3999939
           },
           "StepType": "default",
-          "Guid": "b8763dd9-741d-4c44-ae22-1993cfec8ae6"
+          "Guid": "9b7aece3-0233-420c-8fd4-8fd9746d1d63"
         },
         "Data": {
           "$id": "864",
@@ -4807,7 +4835,9 @@
                       "AudioData": {
                         "$id": "870",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "You made some mistakes. Run the application again to try another time!"
+                        "LocalizationTable": "",
+                        "Text": "You made some mistakes. Run the application again to try another time!",
+                        "Key": "You made some mistakes. Run the application again to try another time!"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -4894,14 +4924,11 @@
             "ChapterMetadata": {
               "$id": "886",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "202"
-              },
               "EntryNodePosition": {
                 "x": -349.6,
                 "y": -3.19999886
               },
-              "Guid": "b94c450a-afb5-44f2-a40e-ec333528f4a0"
+              "Guid": "73543015-2da3-4e74-b7b0-c7b047a81841"
             },
             "Data": {
               "$id": "887",
@@ -4951,14 +4978,11 @@
             "ChapterMetadata": {
               "$id": "890",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "839"
-              },
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
               },
-              "Guid": "b80b18ec-bcc7-4ee8-85ea-a65d36caa5b2"
+              "Guid": "60923597-ecf5-4a4e-8abb-983374616b8d"
             },
             "Data": {
               "$id": "891",

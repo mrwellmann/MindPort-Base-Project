@@ -21,7 +21,7 @@
             "y": 2.0
           },
           "StepType": "default",
-          "Guid": "d5dea528-52df-40af-b11f-226107302e3e"
+          "Guid": "9725f907-d9aa-4085-96f9-6bc37859a68f"
         },
         "Data": {
           "$id": "6",
@@ -47,7 +47,9 @@
                       "AudioData": {
                         "$id": "12",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Welcome to the demo scene for the track and measure add-on for VR Builder. Teleport to a station to check out some of the add-on's features."
+                        "LocalizationTable": "",
+                        "Text": "Welcome to the demo scene for the track and measure add-on for VR Builder. Teleport to a station to check out some of the add-on's features.",
+                        "Key": "Welcome to the demo scene for the track and measure add-on for VR Builder. Teleport to a station to check out some of the add-on's features."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -97,7 +99,7 @@
                       },
                       "TargetStep": {
                         "$id": "22",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "23",
@@ -107,7 +109,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "ab285af8-b5b3-47e2-ac77-85355ac3ca40"
+                          "Guid": "de9d0761-3deb-445e-b733-5aa64d51ae5e"
                         },
                         "Parent": null
                       },
@@ -210,7 +212,7 @@
                       },
                       "TargetStep": {
                         "$id": "42",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "43",
@@ -220,7 +222,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "f8172932-e10a-487c-bd16-30b8e31a90cc"
+                          "Guid": "0038259c-5c48-4ec8-8eac-975086f35a81"
                         },
                         "Parent": null
                       },
@@ -335,7 +337,7 @@
             "y": -126.399994
           },
           "StepType": "default",
-          "Guid": "ab285af8-b5b3-47e2-ac77-85355ac3ca40"
+          "Guid": "de9d0761-3deb-445e-b733-5aa64d51ae5e"
         },
         "Data": {
           "$id": "63",
@@ -361,7 +363,9 @@
                       "AudioData": {
                         "$id": "69",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Build a pyramid with the cubes. The timer will start when you grab the first cube. You can reset the table at any time by pressing that inconspicuous red button."
+                        "LocalizationTable": "",
+                        "Text": "Build a pyramid with the cubes. The timer will start when you grab the first cube. You can reset the table at any time by pressing that inconspicuous red button.",
+                        "Key": "Build a pyramid with the cubes. The timer will start when you grab the first cube. You can reset the table at any time by pressing that inconspicuous red button."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -455,7 +459,7 @@
                       },
                       "TargetStep": {
                         "$id": "88",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "89",
@@ -465,7 +469,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "ed76fff7-dae8-4555-925f-b0f0ef1154fb"
+                          "Guid": "595d4880-f330-4789-901c-c88fafe62a62"
                         },
                         "Parent": null
                       },
@@ -561,7 +565,7 @@
                       },
                       "TargetStep": {
                         "$id": "105",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "106",
@@ -571,7 +575,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "ed76fff7-dae8-4555-925f-b0f0ef1154fb"
+                          "Guid": "595d4880-f330-4789-901c-c88fafe62a62"
                         },
                         "Parent": null
                       },
@@ -676,7 +680,7 @@
                       },
                       "TargetStep": {
                         "$id": "125",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "126",
@@ -686,7 +690,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "ed76fff7-dae8-4555-925f-b0f0ef1154fb"
+                          "Guid": "595d4880-f330-4789-901c-c88fafe62a62"
                         },
                         "Parent": null
                       },
@@ -780,7 +784,7 @@
                       },
                       "TargetStep": {
                         "$id": "142",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "143",
@@ -790,7 +794,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "f8172932-e10a-487c-bd16-30b8e31a90cc"
+                          "Guid": "0038259c-5c48-4ec8-8eac-975086f35a81"
                         },
                         "Parent": null
                       },
@@ -905,7 +909,7 @@
             "y": -156.0
           },
           "StepType": "default",
-          "Guid": "ed76fff7-dae8-4555-925f-b0f0ef1154fb"
+          "Guid": "595d4880-f330-4789-901c-c88fafe62a62"
         },
         "Data": {
           "$id": "163",
@@ -1022,7 +1026,7 @@
                       },
                       "TargetStep": {
                         "$id": "188",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "189",
@@ -1032,7 +1036,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "7713d3ba-4d49-4ea0-916d-39cb795431af"
+                          "Guid": "83e63f33-17e6-40f1-be41-cc130b4fb4fb"
                         },
                         "Parent": null
                       },
@@ -1157,7 +1161,7 @@
                       },
                       "TargetStep": {
                         "$id": "209",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "210",
@@ -1167,7 +1171,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "604839a1-e804-42ee-939a-22f27844cf6c"
+                          "Guid": "4b985e4f-f8f0-4cd5-90a0-798a5be7c54c"
                         },
                         "Parent": null
                       },
@@ -1282,7 +1286,7 @@
             "y": -156.0
           },
           "StepType": "default",
-          "Guid": "7713d3ba-4d49-4ea0-916d-39cb795431af"
+          "Guid": "83e63f33-17e6-40f1-be41-cc130b4fb4fb"
         },
         "Data": {
           "$id": "230",
@@ -1308,7 +1312,9 @@
                       "AudioData": {
                         "$id": "236",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Now the second layer"
+                        "LocalizationTable": "",
+                        "Text": "Now the second layer",
+                        "Key": "Now the second layer"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -1412,7 +1418,7 @@
                       },
                       "TargetStep": {
                         "$id": "257",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "258",
@@ -1422,7 +1428,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "5c51b6d9-b3c7-4e3f-ba2b-28f8b87a5455"
+                          "Guid": "c0f298c6-419b-45fb-962d-3bbc3388a934"
                         },
                         "Parent": null
                       },
@@ -1541,7 +1547,7 @@
                       },
                       "TargetStep": {
                         "$id": "279",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "280",
@@ -1551,7 +1557,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "604839a1-e804-42ee-939a-22f27844cf6c"
+                          "Guid": "4b985e4f-f8f0-4cd5-90a0-798a5be7c54c"
                         },
                         "Parent": null
                       },
@@ -1657,7 +1663,7 @@
             "y": -146.4
           },
           "StepType": "default",
-          "Guid": "5c51b6d9-b3c7-4e3f-ba2b-28f8b87a5455"
+          "Guid": "c0f298c6-419b-45fb-962d-3bbc3388a934"
         },
         "Data": {
           "$id": "297",
@@ -1683,7 +1689,9 @@
                       "AudioData": {
                         "$id": "303",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "One last cube"
+                        "LocalizationTable": "",
+                        "Text": "One last cube",
+                        "Key": "One last cube"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -1753,7 +1761,7 @@
                       },
                       "TargetStep": {
                         "$id": "317",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "318",
@@ -1763,7 +1771,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "823c6da7-5706-4858-ae50-8389b7ee202e"
+                          "Guid": "456b24f1-ee64-4a53-97dc-9f5196e8f77f"
                         },
                         "Parent": null
                       },
@@ -1858,7 +1866,7 @@
                       },
                       "TargetStep": {
                         "$id": "334",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "335",
@@ -1868,7 +1876,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "604839a1-e804-42ee-939a-22f27844cf6c"
+                          "Guid": "4b985e4f-f8f0-4cd5-90a0-798a5be7c54c"
                         },
                         "Parent": null
                       },
@@ -1974,7 +1982,7 @@
             "y": -176.0
           },
           "StepType": "default",
-          "Guid": "823c6da7-5706-4858-ae50-8389b7ee202e"
+          "Guid": "456b24f1-ee64-4a53-97dc-9f5196e8f77f"
         },
         "Data": {
           "$id": "352",
@@ -2000,7 +2008,9 @@
                       "AudioData": {
                         "$id": "358",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "And done!"
+                        "LocalizationTable": "",
+                        "Text": "And done!",
+                        "Key": "And done!"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -2078,7 +2088,7 @@
                       },
                       "TargetStep": {
                         "$id": "373",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "374",
@@ -2088,7 +2098,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "dbd57718-3093-4072-934a-5d56a086ba7f"
+                          "Guid": "44979dc3-a94e-40c0-b899-885a7e843ac1"
                         },
                         "Parent": null
                       },
@@ -2205,7 +2215,7 @@
                       },
                       "TargetStep": {
                         "$id": "395",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "396",
@@ -2215,7 +2225,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "576941e4-d3d0-4507-a22a-406fb1fd609d"
+                          "Guid": "315934d8-eee7-4255-ad86-12bace4beb31"
                         },
                         "Parent": null
                       },
@@ -2323,7 +2333,7 @@
                       },
                       "TargetStep": {
                         "$id": "414",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "415",
@@ -2333,7 +2343,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "0068493f-086c-4808-8cc9-040a01c467ac"
+                          "Guid": "ff572ddc-ec81-441c-9100-d3fa4f887317"
                         },
                         "Parent": null
                       },
@@ -2441,7 +2451,7 @@
                       },
                       "TargetStep": {
                         "$id": "433",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "434",
@@ -2451,7 +2461,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "260c7078-0c69-48b3-b74d-0ea1383e2e38"
+                          "Guid": "5669412e-05c4-4c9c-9ae2-5194be4af361"
                         },
                         "Parent": null
                       },
@@ -2539,7 +2549,7 @@
                       },
                       "TargetStep": {
                         "$id": "450",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "451",
@@ -2549,7 +2559,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "f016c30e-1087-49c8-b923-3736ac69158e"
+                          "Guid": "49ca2696-2f74-4e24-b45b-f5f73369d605"
                         },
                         "Parent": null
                       },
@@ -2639,7 +2649,7 @@
             "y": 64.8
           },
           "StepType": "default",
-          "Guid": "604839a1-e804-42ee-939a-22f27844cf6c"
+          "Guid": "4b985e4f-f8f0-4cd5-90a0-798a5be7c54c"
         },
         "Data": {
           "$id": "466",
@@ -2665,7 +2675,9 @@
                       "AudioData": {
                         "$id": "472",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Resetting"
+                        "LocalizationTable": "",
+                        "Text": "Resetting",
+                        "Key": "Resetting"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -2962,7 +2974,7 @@
                       },
                       "TargetStep": {
                         "$id": "533",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "534",
@@ -2972,7 +2984,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "ab285af8-b5b3-47e2-ac77-85355ac3ca40"
+                          "Guid": "de9d0761-3deb-445e-b733-5aa64d51ae5e"
                         },
                         "Parent": null
                       },
@@ -3071,7 +3083,7 @@
             "y": -203.2
           },
           "StepType": "default",
-          "Guid": "576941e4-d3d0-4507-a22a-406fb1fd609d"
+          "Guid": "315934d8-eee7-4255-ad86-12bace4beb31"
         },
         "Data": {
           "$id": "552",
@@ -3097,7 +3109,9 @@
                       "AudioData": {
                         "$id": "558",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "That was a great performance."
+                        "LocalizationTable": "",
+                        "Text": "That was a great performance.",
+                        "Key": "That was a great performance."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3132,7 +3146,7 @@
                       },
                       "TargetStep": {
                         "$id": "565",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "566",
@@ -3142,7 +3156,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "e1d5237f-ea6b-438c-997c-156e14956191"
+                          "Guid": "75e3f315-830c-4b48-ad60-0245b59f52fb"
                         },
                         "Parent": null
                       },
@@ -3232,7 +3246,7 @@
             "y": -143.2
           },
           "StepType": "default",
-          "Guid": "0068493f-086c-4808-8cc9-040a01c467ac"
+          "Guid": "ff572ddc-ec81-441c-9100-d3fa4f887317"
         },
         "Data": {
           "$id": "581",
@@ -3258,7 +3272,9 @@
                       "AudioData": {
                         "$id": "587",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "It was a good performance, but you can do better."
+                        "LocalizationTable": "",
+                        "Text": "It was a good performance, but you can do better.",
+                        "Key": "It was a good performance, but you can do better."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3293,7 +3309,7 @@
                       },
                       "TargetStep": {
                         "$id": "594",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "595",
@@ -3303,7 +3319,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "e1d5237f-ea6b-438c-997c-156e14956191"
+                          "Guid": "75e3f315-830c-4b48-ad60-0245b59f52fb"
                         },
                         "Parent": null
                       },
@@ -3393,7 +3409,7 @@
             "y": -73.6
           },
           "StepType": "default",
-          "Guid": "260c7078-0c69-48b3-b74d-0ea1383e2e38"
+          "Guid": "5669412e-05c4-4c9c-9ae2-5194be4af361"
         },
         "Data": {
           "$id": "610",
@@ -3419,7 +3435,9 @@
                       "AudioData": {
                         "$id": "616",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "You sure took your time! Next time, try to bring out your inner toddler."
+                        "LocalizationTable": "",
+                        "Text": "You sure took your time! Next time, try to bring out your inner toddler.",
+                        "Key": "You sure took your time! Next time, try to bring out your inner toddler."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3454,7 +3472,7 @@
                       },
                       "TargetStep": {
                         "$id": "623",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "624",
@@ -3464,7 +3482,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "e1d5237f-ea6b-438c-997c-156e14956191"
+                          "Guid": "75e3f315-830c-4b48-ad60-0245b59f52fb"
                         },
                         "Parent": null
                       },
@@ -3554,7 +3572,7 @@
             "y": -143.2
           },
           "StepType": "default",
-          "Guid": "e1d5237f-ea6b-438c-997c-156e14956191"
+          "Guid": "75e3f315-830c-4b48-ad60-0245b59f52fb"
         },
         "Data": {
           "$id": "639",
@@ -3580,7 +3598,9 @@
                       "AudioData": {
                         "$id": "645",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "You can reset the table to try again."
+                        "LocalizationTable": "",
+                        "Text": "You can reset the table to try again.",
+                        "Key": "You can reset the table to try again."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3631,7 +3651,7 @@
                       },
                       "TargetStep": {
                         "$id": "655",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "656",
@@ -3641,7 +3661,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "604839a1-e804-42ee-939a-22f27844cf6c"
+                          "Guid": "4b985e4f-f8f0-4cd5-90a0-798a5be7c54c"
                         },
                         "Parent": null
                       },
@@ -3747,7 +3767,7 @@
             "y": -273.6
           },
           "StepType": "default",
-          "Guid": "dbd57718-3093-4072-934a-5d56a086ba7f"
+          "Guid": "44979dc3-a94e-40c0-b899-885a7e843ac1"
         },
         "Data": {
           "$id": "673",
@@ -3773,7 +3793,9 @@
                       "AudioData": {
                         "$id": "679",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Wow, that was incredible!"
+                        "LocalizationTable": "",
+                        "Text": "Wow, that was incredible!",
+                        "Key": "Wow, that was incredible!"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3808,7 +3830,7 @@
                       },
                       "TargetStep": {
                         "$id": "686",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "687",
@@ -3818,7 +3840,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "e1d5237f-ea6b-438c-997c-156e14956191"
+                          "Guid": "75e3f315-830c-4b48-ad60-0245b59f52fb"
                         },
                         "Parent": null
                       },
@@ -3867,7 +3889,7 @@
             "y": -3.19999886
           },
           "StepType": "default",
-          "Guid": "f016c30e-1087-49c8-b923-3736ac69158e"
+          "Guid": "49ca2696-2f74-4e24-b45b-f5f73369d605"
         },
         "Data": {
           "$id": "695",
@@ -3893,7 +3915,9 @@
                       "AudioData": {
                         "$id": "701",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Congratulations! You managed to trigger the line for the longest time threshold. You did this on purpose, right?"
+                        "LocalizationTable": "",
+                        "Text": "Congratulations! You managed to trigger the line for the longest time threshold. You did this on purpose, right?",
+                        "Key": "Congratulations! You managed to trigger the line for the longest time threshold. You did this on purpose, right?"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3928,7 +3952,7 @@
                       },
                       "TargetStep": {
                         "$id": "708",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "709",
@@ -3938,7 +3962,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "e1d5237f-ea6b-438c-997c-156e14956191"
+                          "Guid": "75e3f315-830c-4b48-ad60-0245b59f52fb"
                         },
                         "Parent": null
                       },
@@ -4028,7 +4052,7 @@
             "y": 186.4
           },
           "StepType": "default",
-          "Guid": "10f8c99c-66f3-4c21-98ab-b1e38331b032"
+          "Guid": "eec4c99b-8a7c-40cd-b447-6e504bd566c0"
         },
         "Data": {
           "$id": "724",
@@ -4131,7 +4155,7 @@
                       },
                       "TargetStep": {
                         "$id": "746",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "747",
@@ -4141,7 +4165,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "41c3351e-e102-4866-a76b-75e2abae3df5"
+                          "Guid": "b3db92db-dabd-4bb0-a67c-dfa1caa3ef2b"
                         },
                         "Parent": null
                       },
@@ -4236,7 +4260,7 @@
                       },
                       "TargetStep": {
                         "$id": "763",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "764",
@@ -4246,7 +4270,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "718cd97f-b8ee-453a-9b28-fcde2017235b"
+                          "Guid": "ac7608f4-5dc6-4e29-9247-465a93f7feb2"
                         },
                         "Parent": null
                       },
@@ -4341,7 +4365,7 @@
                       },
                       "TargetStep": {
                         "$id": "780",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "781",
@@ -4351,7 +4375,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "b781459b-25f2-44c5-a48c-d079f6d8c8f1"
+                          "Guid": "07f45a94-21d7-44b0-8739-60a517642c86"
                         },
                         "Parent": null
                       },
@@ -4445,7 +4469,7 @@
                       },
                       "TargetStep": {
                         "$id": "797",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "798",
@@ -4455,7 +4479,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "ab285af8-b5b3-47e2-ac77-85355ac3ca40"
+                          "Guid": "de9d0761-3deb-445e-b733-5aa64d51ae5e"
                         },
                         "Parent": null
                       },
@@ -4561,7 +4585,7 @@
             "y": 140.0
           },
           "StepType": "default",
-          "Guid": "41c3351e-e102-4866-a76b-75e2abae3df5"
+          "Guid": "b3db92db-dabd-4bb0-a67c-dfa1caa3ef2b"
         },
         "Data": {
           "$id": "815",
@@ -4630,7 +4654,7 @@
                       },
                       "TargetStep": {
                         "$id": "830",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "831",
@@ -4640,7 +4664,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "fb02cf5e-f597-4414-9982-d9255a977e21"
+                          "Guid": "956dd97e-68bf-4b1a-b166-e8d3bd83e983"
                         },
                         "Parent": null
                       },
@@ -4689,7 +4713,7 @@
             "y": 220.0
           },
           "StepType": "default",
-          "Guid": "718cd97f-b8ee-453a-9b28-fcde2017235b"
+          "Guid": "ac7608f4-5dc6-4e29-9247-465a93f7feb2"
         },
         "Data": {
           "$id": "839",
@@ -4758,7 +4782,7 @@
                       },
                       "TargetStep": {
                         "$id": "854",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "855",
@@ -4768,7 +4792,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "fb02cf5e-f597-4414-9982-d9255a977e21"
+                          "Guid": "956dd97e-68bf-4b1a-b166-e8d3bd83e983"
                         },
                         "Parent": null
                       },
@@ -4817,7 +4841,7 @@
             "y": 300.0
           },
           "StepType": "default",
-          "Guid": "b781459b-25f2-44c5-a48c-d079f6d8c8f1"
+          "Guid": "07f45a94-21d7-44b0-8739-60a517642c86"
         },
         "Data": {
           "$id": "863",
@@ -4886,7 +4910,7 @@
                       },
                       "TargetStep": {
                         "$id": "878",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "879",
@@ -4896,7 +4920,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "90f3e3d8-f15f-479d-9159-a594b99724ba"
+                          "Guid": "d28529f1-bde1-47f9-8aab-ea507fdd20b6"
                         },
                         "Parent": null
                       },
@@ -4945,7 +4969,7 @@
             "y": 220.0
           },
           "StepType": "default",
-          "Guid": "90f3e3d8-f15f-479d-9159-a594b99724ba"
+          "Guid": "d28529f1-bde1-47f9-8aab-ea507fdd20b6"
         },
         "Data": {
           "$id": "887",
@@ -5058,7 +5082,7 @@
                       },
                       "TargetStep": {
                         "$id": "911",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "912",
@@ -5068,7 +5092,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "8c6d9d31-8f35-4869-81b1-af66863c6f77"
+                          "Guid": "8e8596ef-553e-45cb-ad4a-091cb8c2892b"
                         },
                         "Parent": null
                       },
@@ -5163,7 +5187,7 @@
                       },
                       "TargetStep": {
                         "$id": "928",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "929",
@@ -5173,7 +5197,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "72af8e7c-66c4-4131-96ee-6fc3bd134d05"
+                          "Guid": "56011f30-46fb-4721-9d48-15b4a3767773"
                         },
                         "Parent": null
                       },
@@ -5268,7 +5292,7 @@
                       },
                       "TargetStep": {
                         "$id": "945",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "946",
@@ -5278,7 +5302,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "570637bf-4ffa-4934-b69f-253b7b3c0916"
+                          "Guid": "51690ed2-ea79-46f5-aeb3-a1f688f90879"
                         },
                         "Parent": null
                       },
@@ -5384,7 +5408,7 @@
             "y": 228.0
           },
           "StepType": "default",
-          "Guid": "72af8e7c-66c4-4131-96ee-6fc3bd134d05"
+          "Guid": "56011f30-46fb-4721-9d48-15b4a3767773"
         },
         "Data": {
           "$id": "963",
@@ -5453,7 +5477,7 @@
                       },
                       "TargetStep": {
                         "$id": "978",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "979",
@@ -5463,7 +5487,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "81b4121d-8864-42f3-91c7-bc3279491519"
+                          "Guid": "ae57001d-664f-4404-b251-0cf005d788a2"
                         },
                         "Parent": null
                       },
@@ -5512,7 +5536,7 @@
             "y": 318.400024
           },
           "StepType": "default",
-          "Guid": "570637bf-4ffa-4934-b69f-253b7b3c0916"
+          "Guid": "51690ed2-ea79-46f5-aeb3-a1f688f90879"
         },
         "Data": {
           "$id": "987",
@@ -5581,7 +5605,7 @@
                       },
                       "TargetStep": {
                         "$id": "1002",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1003",
@@ -5591,7 +5615,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "81b4121d-8864-42f3-91c7-bc3279491519"
+                          "Guid": "ae57001d-664f-4404-b251-0cf005d788a2"
                         },
                         "Parent": null
                       },
@@ -5640,7 +5664,7 @@
             "y": 148.0
           },
           "StepType": "default",
-          "Guid": "8c6d9d31-8f35-4869-81b1-af66863c6f77"
+          "Guid": "8e8596ef-553e-45cb-ad4a-091cb8c2892b"
         },
         "Data": {
           "$id": "1011",
@@ -5709,7 +5733,7 @@
                       },
                       "TargetStep": {
                         "$id": "1026",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1027",
@@ -5719,7 +5743,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "f3aaea9c-843c-4ef3-9c3f-e971fc6d6147"
+                          "Guid": "1d3ec586-2731-45ff-9716-8a4ba3f09490"
                         },
                         "Parent": null
                       },
@@ -5768,7 +5792,7 @@
             "y": 200.0
           },
           "StepType": "default",
-          "Guid": "f3aaea9c-843c-4ef3-9c3f-e971fc6d6147"
+          "Guid": "1d3ec586-2731-45ff-9716-8a4ba3f09490"
         },
         "Data": {
           "$id": "1035",
@@ -5881,7 +5905,7 @@
                       },
                       "TargetStep": {
                         "$id": "1059",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1060",
@@ -5891,7 +5915,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "e235b368-a355-41fb-a00b-d609369fe3ed"
+                          "Guid": "9673b222-55a9-4842-8518-f5d3e7d013cc"
                         },
                         "Parent": null
                       },
@@ -5986,7 +6010,7 @@
                       },
                       "TargetStep": {
                         "$id": "1076",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1077",
@@ -5996,7 +6020,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "a904ebc1-6587-4919-8efe-6c296c2af398"
+                          "Guid": "4b1be714-cc4f-4899-968e-fd90ac639794"
                         },
                         "Parent": null
                       },
@@ -6091,7 +6115,7 @@
                       },
                       "TargetStep": {
                         "$id": "1093",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1094",
@@ -6101,7 +6125,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "ab340dff-5d07-464b-8538-278312ddd72b"
+                          "Guid": "89cfc56c-f36c-4915-8353-b66378f6f061"
                         },
                         "Parent": null
                       },
@@ -6207,7 +6231,7 @@
             "y": 161.599991
           },
           "StepType": "default",
-          "Guid": "e235b368-a355-41fb-a00b-d609369fe3ed"
+          "Guid": "9673b222-55a9-4842-8518-f5d3e7d013cc"
         },
         "Data": {
           "$id": "1111",
@@ -6276,7 +6300,7 @@
                       },
                       "TargetStep": {
                         "$id": "1126",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1127",
@@ -6286,7 +6310,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "331b783d-d366-4da5-8ee1-7a4e5b63372f"
+                          "Guid": "f5bedc52-cc86-46e8-ad73-7ea7668aca8f"
                         },
                         "Parent": null
                       },
@@ -6335,7 +6359,7 @@
             "y": 231.2
           },
           "StepType": "default",
-          "Guid": "a904ebc1-6587-4919-8efe-6c296c2af398"
+          "Guid": "4b1be714-cc4f-4899-968e-fd90ac639794"
         },
         "Data": {
           "$id": "1135",
@@ -6404,7 +6428,7 @@
                       },
                       "TargetStep": {
                         "$id": "1150",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1151",
@@ -6414,7 +6438,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "3e5b99e1-fa18-45b2-99c8-fca5876e6f2a"
+                          "Guid": "0d911247-f031-45ad-963b-a0397264a6bb"
                         },
                         "Parent": null
                       },
@@ -6463,7 +6487,7 @@
             "y": 301.6
           },
           "StepType": "default",
-          "Guid": "ab340dff-5d07-464b-8538-278312ddd72b"
+          "Guid": "89cfc56c-f36c-4915-8353-b66378f6f061"
         },
         "Data": {
           "$id": "1159",
@@ -6532,7 +6556,7 @@
                       },
                       "TargetStep": {
                         "$id": "1174",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1175",
@@ -6542,7 +6566,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "331b783d-d366-4da5-8ee1-7a4e5b63372f"
+                          "Guid": "f5bedc52-cc86-46e8-ad73-7ea7668aca8f"
                         },
                         "Parent": null
                       },
@@ -6591,7 +6615,7 @@
             "y": 216.8
           },
           "StepType": "default",
-          "Guid": "3e5b99e1-fa18-45b2-99c8-fca5876e6f2a"
+          "Guid": "0d911247-f031-45ad-963b-a0397264a6bb"
         },
         "Data": {
           "$id": "1183",
@@ -6663,7 +6687,7 @@
                       },
                       "TargetStep": {
                         "$id": "1198",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1199",
@@ -6673,7 +6697,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "23b31898-37d3-42f7-ac8b-88ee1ec31e06"
+                          "Guid": "e0d76ae0-6656-4809-aa28-38cc3cfb8b68"
                         },
                         "Parent": null
                       },
@@ -6781,7 +6805,7 @@
                       },
                       "TargetStep": {
                         "$id": "1217",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1218",
@@ -6791,7 +6815,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "2a89499e-0ba7-4a3a-9734-326841632778"
+                          "Guid": "a225ea6a-ad32-44b0-97c9-bfaea18b0eb8"
                         },
                         "Parent": null
                       },
@@ -6899,7 +6923,7 @@
                       },
                       "TargetStep": {
                         "$id": "1236",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1237",
@@ -6909,7 +6933,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "c8f9216e-5851-48dd-bf1f-9a9020cf94dc"
+                          "Guid": "2c33a989-5547-4b72-9442-29c0809ede95"
                         },
                         "Parent": null
                       },
@@ -6997,7 +7021,7 @@
                       },
                       "TargetStep": {
                         "$id": "1253",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1254",
@@ -7007,7 +7031,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "2cd707f9-a860-4e23-b21c-138c5ce7659d"
+                          "Guid": "659bdf4b-7620-4a85-9cc0-e321569fcb24"
                         },
                         "Parent": null
                       },
@@ -7097,7 +7121,7 @@
             "y": 161.599991
           },
           "StepType": "default",
-          "Guid": "23b31898-37d3-42f7-ac8b-88ee1ec31e06"
+          "Guid": "e0d76ae0-6656-4809-aa28-38cc3cfb8b68"
         },
         "Data": {
           "$id": "1269",
@@ -7123,7 +7147,9 @@
                       "AudioData": {
                         "$id": "1275",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "That wasn't too hard, was it?"
+                        "LocalizationTable": "",
+                        "Text": "That wasn't too hard, was it?",
+                        "Key": "That wasn't too hard, was it?"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -7158,7 +7184,7 @@
                       },
                       "TargetStep": {
                         "$id": "1282",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1283",
@@ -7168,7 +7194,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "669391b5-26c5-4390-b416-44b1ddc32bc6"
+                          "Guid": "4d1acb22-2ca5-42f3-97ba-7561ee31ee39"
                         },
                         "Parent": null
                       },
@@ -7217,7 +7243,7 @@
             "y": 241.599991
           },
           "StepType": "default",
-          "Guid": "2a89499e-0ba7-4a3a-9734-326841632778"
+          "Guid": "a225ea6a-ad32-44b0-97c9-bfaea18b0eb8"
         },
         "Data": {
           "$id": "1291",
@@ -7243,7 +7269,9 @@
                       "AudioData": {
                         "$id": "1297",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Acting randomly would have yielded a better score. Did you deliberately choose to fail?"
+                        "LocalizationTable": "",
+                        "Text": "Acting randomly would have yielded a better score. Did you deliberately choose to fail?",
+                        "Key": "Acting randomly would have yielded a better score. Did you deliberately choose to fail?"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -7278,7 +7306,7 @@
                       },
                       "TargetStep": {
                         "$id": "1304",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1305",
@@ -7288,7 +7316,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "669391b5-26c5-4390-b416-44b1ddc32bc6"
+                          "Guid": "4d1acb22-2ca5-42f3-97ba-7561ee31ee39"
                         },
                         "Parent": null
                       },
@@ -7337,7 +7365,7 @@
             "y": 372.0
           },
           "StepType": "default",
-          "Guid": "2cd707f9-a860-4e23-b21c-138c5ce7659d"
+          "Guid": "659bdf4b-7620-4a85-9cc0-e321569fcb24"
         },
         "Data": {
           "$id": "1313",
@@ -7363,7 +7391,9 @@
                       "AudioData": {
                         "$id": "1319",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "You can do better. Why not try again?"
+                        "LocalizationTable": "",
+                        "Text": "You can do better. Why not try again?",
+                        "Key": "You can do better. Why not try again?"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -7398,7 +7428,7 @@
                       },
                       "TargetStep": {
                         "$id": "1326",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1327",
@@ -7408,7 +7438,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "669391b5-26c5-4390-b416-44b1ddc32bc6"
+                          "Guid": "4d1acb22-2ca5-42f3-97ba-7561ee31ee39"
                         },
                         "Parent": null
                       },
@@ -7457,7 +7487,7 @@
             "y": 241.599991
           },
           "StepType": "default",
-          "Guid": "669391b5-26c5-4390-b416-44b1ddc32bc6"
+          "Guid": "4d1acb22-2ca5-42f3-97ba-7561ee31ee39"
         },
         "Data": {
           "$id": "1335",
@@ -7483,7 +7513,9 @@
                       "AudioData": {
                         "$id": "1341",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "The table will now reset."
+                        "LocalizationTable": "",
+                        "Text": "The table will now reset.",
+                        "Key": "The table will now reset."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -7574,7 +7606,7 @@
                       },
                       "TargetStep": {
                         "$id": "1360",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1361",
@@ -7584,7 +7616,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "f8172932-e10a-487c-bd16-30b8e31a90cc"
+                          "Guid": "0038259c-5c48-4ec8-8eac-975086f35a81"
                         },
                         "Parent": null
                       },
@@ -7633,7 +7665,7 @@
             "y": 183.2
           },
           "StepType": "default",
-          "Guid": "f8172932-e10a-487c-bd16-30b8e31a90cc"
+          "Guid": "0038259c-5c48-4ec8-8eac-975086f35a81"
         },
         "Data": {
           "$id": "1369",
@@ -7659,7 +7691,9 @@
                       "AudioData": {
                         "$id": "1375",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Push the button corresponding to the color of the cube."
+                        "LocalizationTable": "",
+                        "Text": "Push the button corresponding to the color of the cube.",
+                        "Key": "Push the button corresponding to the color of the cube."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -7694,7 +7728,7 @@
                       },
                       "TargetStep": {
                         "$id": "1382",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1383",
@@ -7704,7 +7738,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "10f8c99c-66f3-4c21-98ab-b1e38331b032"
+                          "Guid": "eec4c99b-8a7c-40cd-b447-6e504bd566c0"
                         },
                         "Parent": null
                       },
@@ -7753,7 +7787,7 @@
             "y": 301.6
           },
           "StepType": "default",
-          "Guid": "c8f9216e-5851-48dd-bf1f-9a9020cf94dc"
+          "Guid": "2c33a989-5547-4b72-9442-29c0809ede95"
         },
         "Data": {
           "$id": "1391",
@@ -7779,7 +7813,9 @@
                       "AudioData": {
                         "$id": "1397",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Not to hurt your feelings, but are you sure you got the instructions right?"
+                        "LocalizationTable": "",
+                        "Text": "Not to hurt your feelings, but are you sure you got the instructions right?",
+                        "Key": "Not to hurt your feelings, but are you sure you got the instructions right?"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -7814,7 +7850,7 @@
                       },
                       "TargetStep": {
                         "$id": "1404",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1405",
@@ -7824,7 +7860,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "669391b5-26c5-4390-b416-44b1ddc32bc6"
+                          "Guid": "4d1acb22-2ca5-42f3-97ba-7561ee31ee39"
                         },
                         "Parent": null
                       },
@@ -7873,7 +7909,7 @@
             "y": 320.0
           },
           "StepType": "default",
-          "Guid": "fb02cf5e-f597-4414-9982-d9255a977e21"
+          "Guid": "956dd97e-68bf-4b1a-b166-e8d3bd83e983"
         },
         "Data": {
           "$id": "1413",
@@ -7927,7 +7963,7 @@
                       },
                       "TargetStep": {
                         "$id": "1425",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1426",
@@ -7937,7 +7973,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "10f8c99c-66f3-4c21-98ab-b1e38331b032"
+                          "Guid": "eec4c99b-8a7c-40cd-b447-6e504bd566c0"
                         },
                         "Parent": null
                       },
@@ -7986,7 +8022,7 @@
             "y": 320.0
           },
           "StepType": "default",
-          "Guid": "81b4121d-8864-42f3-91c7-bc3279491519"
+          "Guid": "ae57001d-664f-4404-b251-0cf005d788a2"
         },
         "Data": {
           "$id": "1434",
@@ -8040,7 +8076,7 @@
                       },
                       "TargetStep": {
                         "$id": "1446",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1447",
@@ -8050,7 +8086,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "90f3e3d8-f15f-479d-9159-a594b99724ba"
+                          "Guid": "d28529f1-bde1-47f9-8aab-ea507fdd20b6"
                         },
                         "Parent": null
                       },
@@ -8099,7 +8135,7 @@
             "y": 379.2
           },
           "StepType": "default",
-          "Guid": "331b783d-d366-4da5-8ee1-7a4e5b63372f"
+          "Guid": "f5bedc52-cc86-46e8-ad73-7ea7668aca8f"
         },
         "Data": {
           "$id": "1455",
@@ -8153,7 +8189,7 @@
                       },
                       "TargetStep": {
                         "$id": "1467",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1468",
@@ -8163,7 +8199,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "f3aaea9c-843c-4ef3-9c3f-e971fc6d6147"
+                          "Guid": "1d3ec586-2731-45ff-9716-8a4ba3f09490"
                         },
                         "Parent": null
                       },
@@ -8220,14 +8256,11 @@
             "ChapterMetadata": {
               "$id": "1478",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "1389"
-              },
               "EntryNodePosition": {
                 "x": -158.0,
                 "y": 2.0
               },
-              "Guid": "c5028f2b-9dbc-4361-9597-09779352ab52"
+              "Guid": "37d321ac-06d7-4cb5-8a7a-6f8272be2e3b"
             },
             "Data": {
               "$id": "1479",

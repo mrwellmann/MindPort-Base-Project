@@ -21,7 +21,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "5befa181-1ba1-4b77-b473-b4f7950749db"
+          "Guid": "2656a101-aca5-4e24-906c-a8ddbb81a468"
         },
         "Data": {
           "$id": "6",
@@ -47,7 +47,9 @@
                       "AudioData": {
                         "$id": "12",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Welcome! I'll guide you through this course."
+                        "LocalizationTable": "",
+                        "Text": "Welcome! I'll guide you through this course.",
+                        "Key": "Welcome! I'll guide you through this course."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -126,7 +128,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "3279de8a-56cf-4ad5-b451-fb1cd976d38e"
+          "Guid": "026d5324-20b9-464d-bbdc-202c26908dba"
         },
         "Data": {
           "$id": "26",
@@ -152,7 +154,9 @@
                       "AudioData": {
                         "$id": "32",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Teleport to the first station. Press and hold the trigger button to aim at the blue teleportation spot. Release the trigger button to teleport there."
+                        "LocalizationTable": "",
+                        "Text": "Teleport to the first station. Press and hold the trigger button to aim at the blue teleportation spot. Release the trigger button to teleport there.",
+                        "Key": "Teleport to the first station. Press and hold the trigger button to aim at the blue teleportation spot. Release the trigger button to teleport there."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -202,7 +206,7 @@
                       },
                       "TargetStep": {
                         "$id": "42",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "43",
@@ -212,7 +216,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "188909ea-5e77-41b5-8ede-60043dce02b8"
+                          "Guid": "9cd28fdd-3332-41b5-b130-f2d01e96ad71"
                         },
                         "Parent": null
                       },
@@ -327,7 +331,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "188909ea-5e77-41b5-8ede-60043dce02b8"
+          "Guid": "9cd28fdd-3332-41b5-b130-f2d01e96ad71"
         },
         "Data": {
           "$id": "63",
@@ -353,7 +357,9 @@
                       "AudioData": {
                         "$id": "69",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "First, use the transformer in front of you to make a cube out of the sphere to your left. Grab it by pressing the grab button on your controller. The grab button is on the side of your controller."
+                        "LocalizationTable": "",
+                        "Text": "First, use the transformer in front of you to make a cube out of the sphere to your left. Grab it by pressing the grab button on your controller. The grab button is on the side of your controller.",
+                        "Key": "First, use the transformer in front of you to make a cube out of the sphere to your left. Grab it by pressing the grab button on your controller. The grab button is on the side of your controller."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -405,7 +411,7 @@
                       },
                       "TargetStep": {
                         "$id": "79",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "80",
@@ -415,7 +421,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "9a3735e4-c70d-43e4-a39e-8a5b9b661198"
+                          "Guid": "a644100e-6e52-488e-b890-eaf4ae810cd6"
                         },
                         "Parent": null
                       },
@@ -521,7 +527,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "9a3735e4-c70d-43e4-a39e-8a5b9b661198"
+          "Guid": "a644100e-6e52-488e-b890-eaf4ae810cd6"
         },
         "Data": {
           "$id": "97",
@@ -547,7 +553,9 @@
                       "AudioData": {
                         "$id": "103",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Now put it on the highlighted spot on the transformer."
+                        "LocalizationTable": "",
+                        "Text": "Now put it on the highlighted spot on the transformer.",
+                        "Key": "Now put it on the highlighted spot on the transformer."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -602,7 +610,7 @@
                       },
                       "TargetStep": {
                         "$id": "114",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "115",
@@ -612,7 +620,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "a276bd64-ab64-44d5-bb73-772561009b31"
+                          "Guid": "bf10c332-ed9e-4d4a-a72f-6f2d7e50a73e"
                         },
                         "Parent": null
                       },
@@ -718,7 +726,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "46f091a5-96df-40de-96b4-9da3633eb3f7"
+          "Guid": "aedcad3c-c8f7-43b2-ba56-ba300ab08d35"
         },
         "Data": {
           "$id": "132",
@@ -981,7 +989,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "a276bd64-ab64-44d5-bb73-772561009b31"
+          "Guid": "bf10c332-ed9e-4d4a-a72f-6f2d7e50a73e"
         },
         "Data": {
           "$id": "182",
@@ -1007,7 +1015,9 @@
                       "AudioData": {
                         "$id": "188",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Touch the panel to activate the transformer."
+                        "LocalizationTable": "",
+                        "Text": "Touch the panel to activate the transformer.",
+                        "Key": "Touch the panel to activate the transformer."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -1048,7 +1058,7 @@
                               "TouchableProperty": {
                                 "$id": "197",
                                 "$type": "VRBuilder.Core.SceneObjects.ScenePropertyReference`1[[VRBuilder.BasicInteraction.Properties.ITouchableProperty, VRBuilder.BasicInteraction]], VRBuilder.Core",
-                                "UniqueName": ""
+                                "UniqueName": "TouchPanel"
                               },
                               "IsCompleted": false,
                               "Metadata": null
@@ -1058,7 +1068,7 @@
                       },
                       "TargetStep": {
                         "$id": "198",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "199",
@@ -1068,7 +1078,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "46f091a5-96df-40de-96b4-9da3633eb3f7"
+                          "Guid": "aedcad3c-c8f7-43b2-ba56-ba300ab08d35"
                         },
                         "Parent": null
                       },
@@ -1166,7 +1176,7 @@
               "TabsGroup": {
                 "$id": "216",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 1
+                "selected": 0
               }
             }
           }
@@ -1183,7 +1193,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "b8b08ce1-d1f3-4b79-a582-aa0fce4ca3a3"
+          "Guid": "c872133f-25bd-4075-9682-b806b0bc6bdc"
         },
         "Data": {
           "$id": "219",
@@ -1228,7 +1238,9 @@
                       "AudioData": {
                         "$id": "229",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Take the cube and teleport to the next station."
+                        "LocalizationTable": "",
+                        "Text": "Take the cube and teleport to the next station.",
+                        "Key": "Take the cube and teleport to the next station."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -1280,7 +1292,7 @@
                       },
                       "TargetStep": {
                         "$id": "239",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "240",
@@ -1290,7 +1302,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "5f232f70-ec16-4c91-90bd-56fd1a45a0db"
+                          "Guid": "620b4027-ee27-421b-9e78-c099416d6795"
                         },
                         "Parent": null
                       },
@@ -1396,7 +1408,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "5f232f70-ec16-4c91-90bd-56fd1a45a0db"
+          "Guid": "620b4027-ee27-421b-9e78-c099416d6795"
         },
         "Data": {
           "$id": "257",
@@ -1454,7 +1466,7 @@
                       },
                       "TargetStep": {
                         "$id": "270",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "271",
@@ -1464,7 +1476,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "c142de6b-1d0f-4a83-b192-550943abc307"
+                          "Guid": "d5d93aee-b34a-4e38-bf6c-6c9fe8a18ec0"
                         },
                         "Parent": null
                       },
@@ -1568,7 +1580,7 @@
                       },
                       "TargetStep": {
                         "$id": "290",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "291",
@@ -1578,7 +1590,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "b8b08ce1-d1f3-4b79-a582-aa0fce4ca3a3"
+                          "Guid": "c872133f-25bd-4075-9682-b806b0bc6bdc"
                         },
                         "Parent": null
                       },
@@ -1684,7 +1696,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "c142de6b-1d0f-4a83-b192-550943abc307"
+          "Guid": "d5d93aee-b34a-4e38-bf6c-6c9fe8a18ec0"
         },
         "Data": {
           "$id": "308",
@@ -1710,7 +1722,9 @@
                       "AudioData": {
                         "$id": "314",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Place the cube on the table."
+                        "LocalizationTable": "",
+                        "Text": "Place the cube on the table.",
+                        "Key": "Place the cube on the table."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -1765,7 +1779,7 @@
                       },
                       "TargetStep": {
                         "$id": "325",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "326",
@@ -1775,7 +1789,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "3f33479d-eade-421f-996c-12f1b469195a"
+                          "Guid": "ef6f498f-949d-4d6b-aeb1-cd11f4a10b79"
                         },
                         "Parent": null
                       },
@@ -1879,7 +1893,7 @@
                       },
                       "TargetStep": {
                         "$id": "345",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "346",
@@ -1889,7 +1903,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "0d1aba91-0049-4711-9827-35056b8bc93e"
+                          "Guid": "73ea5b42-1395-4991-bf6c-53c1662cef00"
                         },
                         "Parent": null
                       },
@@ -1995,7 +2009,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "3f33479d-eade-421f-996c-12f1b469195a"
+          "Guid": "ef6f498f-949d-4d6b-aeb1-cd11f4a10b79"
         },
         "Data": {
           "$id": "363",
@@ -2021,7 +2035,9 @@
                       "AudioData": {
                         "$id": "369",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Now you need to cut this cube in two pieces. First, pick up the tool to your right."
+                        "LocalizationTable": "",
+                        "Text": "Now you need to cut this cube in two pieces. First, pick up the tool to your right.",
+                        "Key": "Now you need to cut this cube in two pieces. First, pick up the tool to your right."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -2073,7 +2089,7 @@
                       },
                       "TargetStep": {
                         "$id": "379",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "380",
@@ -2083,7 +2099,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "12b5d329-f4f3-4c8f-8aee-ce39589bc4b6"
+                          "Guid": "1cfee035-b8f8-490e-a214-546472d4146b"
                         },
                         "Parent": null
                       },
@@ -2189,7 +2205,7 @@
             "y": 145.6
           },
           "StepType": "default",
-          "Guid": "0d1aba91-0049-4711-9827-35056b8bc93e"
+          "Guid": "73ea5b42-1395-4991-bf6c-53c1662cef00"
         },
         "Data": {
           "$id": "397",
@@ -2215,7 +2231,9 @@
                       "AudioData": {
                         "$id": "403",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Pick up the cube again and place it on the table."
+                        "LocalizationTable": "",
+                        "Text": "Pick up the cube again and place it on the table.",
+                        "Key": "Pick up the cube again and place it on the table."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -2267,7 +2285,7 @@
                       },
                       "TargetStep": {
                         "$id": "413",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "414",
@@ -2277,7 +2295,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "c142de6b-1d0f-4a83-b192-550943abc307"
+                          "Guid": "d5d93aee-b34a-4e38-bf6c-6c9fe8a18ec0"
                         },
                         "Parent": null
                       },
@@ -2383,7 +2401,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "12b5d329-f4f3-4c8f-8aee-ce39589bc4b6"
+          "Guid": "1cfee035-b8f8-490e-a214-546472d4146b"
         },
         "Data": {
           "$id": "431",
@@ -2409,7 +2427,9 @@
                       "AudioData": {
                         "$id": "437",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "While holding the tool, you can use it by pressing the trigger button."
+                        "LocalizationTable": "",
+                        "Text": "While holding the tool, you can use it by pressing the trigger button.",
+                        "Key": "While holding the tool, you can use it by pressing the trigger button."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -2460,7 +2480,7 @@
                       },
                       "TargetStep": {
                         "$id": "447",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "448",
@@ -2470,7 +2490,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "1e9d6b16-2b94-442f-a854-3a571cd85cc0"
+                          "Guid": "3f68744c-37fd-4ff3-8df4-e852653294f3"
                         },
                         "Parent": null
                       },
@@ -2576,7 +2596,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "1e9d6b16-2b94-442f-a854-3a571cd85cc0"
+          "Guid": "3f68744c-37fd-4ff3-8df4-e852653294f3"
         },
         "Data": {
           "$id": "465",
@@ -2617,7 +2637,9 @@
                       "AudioData": {
                         "$id": "474",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Well done! Now slice the cube by moving the blade in the highlighted area."
+                        "LocalizationTable": "",
+                        "Text": "Well done! Now slice the cube by moving the blade in the highlighted area.",
+                        "Key": "Well done! Now slice the cube by moving the blade in the highlighted area."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -2673,7 +2695,7 @@
                       },
                       "TargetStep": {
                         "$id": "485",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "486",
@@ -2683,7 +2705,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "36800b26-5bab-47d3-8fc2-d1b41140338d"
+                          "Guid": "c7ea3571-16a7-47dd-b55f-90ec5469bd6c"
                         },
                         "Parent": null
                       },
@@ -2778,7 +2800,7 @@
                       },
                       "TargetStep": {
                         "$id": "502",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "503",
@@ -2788,7 +2810,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "12b5d329-f4f3-4c8f-8aee-ce39589bc4b6"
+                          "Guid": "1cfee035-b8f8-490e-a214-546472d4146b"
                         },
                         "Parent": null
                       },
@@ -2954,7 +2976,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "36800b26-5bab-47d3-8fc2-d1b41140338d"
+          "Guid": "c7ea3571-16a7-47dd-b55f-90ec5469bd6c"
         },
         "Data": {
           "$id": "533",
@@ -3038,7 +3060,9 @@
                       "AudioData": {
                         "$id": "551",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Great. Release the tool and it will go back to its original position."
+                        "LocalizationTable": "",
+                        "Text": "Great. Release the tool and it will go back to its original position.",
+                        "Key": "Great. Release the tool and it will go back to its original position."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3089,7 +3113,7 @@
                       },
                       "TargetStep": {
                         "$id": "561",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "562",
@@ -3099,7 +3123,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "1e5734f1-a362-41f3-85f7-71e545cf73c5"
+                          "Guid": "60550eb6-c115-4abb-8321-88cd09a2ad8a"
                         },
                         "Parent": null
                       },
@@ -3245,7 +3269,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "1e5734f1-a362-41f3-85f7-71e545cf73c5"
+          "Guid": "60550eb6-c115-4abb-8321-88cd09a2ad8a"
         },
         "Data": {
           "$id": "588",
@@ -3403,7 +3427,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "129e9719-46dd-4fdd-a6dc-95a6648ad5b0"
+          "Guid": "22d1c5b2-ccb3-4123-91f7-da3e00021cd5"
         },
         "Data": {
           "$id": "619",
@@ -3429,7 +3453,9 @@
                       "AudioData": {
                         "$id": "625",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Now use the 2 pieces to build a staircase. Pick one of them up and teleport to the large podium. Notice that you can now freely teleport around the area."
+                        "LocalizationTable": "",
+                        "Text": "Now use the 2 pieces to build a staircase. Pick one of them up and teleport to the large podium. Notice that you can now freely teleport around the area.",
+                        "Key": "Now use the 2 pieces to build a staircase. Pick one of them up and teleport to the large podium. Notice that you can now freely teleport around the area."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3484,7 +3510,7 @@
                       },
                       "TargetStep": {
                         "$id": "636",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "637",
@@ -3494,7 +3520,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "337459f4-f637-43a7-8826-3d34754ea4f2"
+                          "Guid": "0bf93fb8-27e7-4c6c-bb17-c80b00ef0550"
                         },
                         "Parent": null
                       },
@@ -3602,7 +3628,7 @@
                       },
                       "TargetStep": {
                         "$id": "657",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "658",
@@ -3612,7 +3638,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "337459f4-f637-43a7-8826-3d34754ea4f2"
+                          "Guid": "0bf93fb8-27e7-4c6c-bb17-c80b00ef0550"
                         },
                         "Parent": null
                       },
@@ -3718,7 +3744,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "bc7c3e61-1ddc-4078-80a9-0bbcc58a414f"
+          "Guid": "03188c24-fdea-4753-8376-14a878daf1fe"
         },
         "Data": {
           "$id": "675",
@@ -3777,7 +3803,7 @@
                       },
                       "TargetStep": {
                         "$id": "688",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "689",
@@ -3787,7 +3813,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "129e9719-46dd-4fdd-a6dc-95a6648ad5b0"
+                          "Guid": "22d1c5b2-ccb3-4123-91f7-da3e00021cd5"
                         },
                         "Parent": null
                       },
@@ -3877,7 +3903,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "337459f4-f637-43a7-8826-3d34754ea4f2"
+          "Guid": "0bf93fb8-27e7-4c6c-bb17-c80b00ef0550"
         },
         "Data": {
           "$id": "704",
@@ -3956,7 +3982,7 @@
                       },
                       "TargetStep": {
                         "$id": "721",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "722",
@@ -3966,7 +3992,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "c15106f9-21f4-42ae-8b9c-fe35231edbe7"
+                          "Guid": "4d792f2a-e391-42f7-a3a2-a4530a345805"
                         },
                         "Parent": null
                       },
@@ -4074,7 +4100,7 @@
                       },
                       "TargetStep": {
                         "$id": "742",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "743",
@@ -4084,7 +4110,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "c15106f9-21f4-42ae-8b9c-fe35231edbe7"
+                          "Guid": "4d792f2a-e391-42f7-a3a2-a4530a345805"
                         },
                         "Parent": null
                       },
@@ -4190,7 +4216,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "c15106f9-21f4-42ae-8b9c-fe35231edbe7"
+          "Guid": "4d792f2a-e391-42f7-a3a2-a4530a345805"
         },
         "Data": {
           "$id": "760",
@@ -4334,7 +4360,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "bd0fc09c-eeae-46ce-886e-ca5fc491536b"
+          "Guid": "cd0bac82-b95c-4c25-a9de-5f1a923984c1"
         },
         "Data": {
           "$id": "787",
@@ -4360,7 +4386,9 @@
                       "AudioData": {
                         "$id": "793",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Well done! You can now climb the steps!"
+                        "LocalizationTable": "",
+                        "Text": "Well done! You can now climb the steps!",
+                        "Key": "Well done! You can now climb the steps!"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -4410,7 +4438,7 @@
                       },
                       "TargetStep": {
                         "$id": "803",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "804",
@@ -4420,7 +4448,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "ed4ed810-3e6b-4c30-9eb1-be4aba61660a"
+                          "Guid": "c9c49e46-352a-480a-b1e8-f5a683d92138"
                         },
                         "Parent": null
                       },
@@ -4526,7 +4554,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "ce001305-a174-4e58-b490-cf6a044311f9"
+          "Guid": "c0df656a-7bea-4169-b905-36126245ac57"
         },
         "Data": {
           "$id": "821",
@@ -4566,7 +4594,9 @@
                       "AudioData": {
                         "$id": "830",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Now the shield has been disabled, you can grab the ball. To finish this course, you must shoot it through the ring. It will return to the initial position if you miss."
+                        "LocalizationTable": "",
+                        "Text": "Now the shield has been disabled, you can grab the ball. To finish this course, you must shoot it through the ring. It will return to the initial position if you miss.",
+                        "Key": "Now the shield has been disabled, you can grab the ball. To finish this course, you must shoot it through the ring. It will return to the initial position if you miss."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -4728,7 +4758,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "ed4ed810-3e6b-4c30-9eb1-be4aba61660a"
+          "Guid": "c9c49e46-352a-480a-b1e8-f5a683d92138"
         },
         "Data": {
           "$id": "859",
@@ -4769,7 +4799,9 @@
                       "AudioData": {
                         "$id": "868",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "You cannot take the ball while the shield is active. Touch the panel to disable the shield."
+                        "LocalizationTable": "",
+                        "Text": "You cannot take the ball while the shield is active. Touch the panel to disable the shield.",
+                        "Key": "You cannot take the ball while the shield is active. Touch the panel to disable the shield."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -4820,7 +4852,7 @@
                       },
                       "TargetStep": {
                         "$id": "878",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "879",
@@ -4830,7 +4862,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "ce001305-a174-4e58-b490-cf6a044311f9"
+                          "Guid": "c0df656a-7bea-4169-b905-36126245ac57"
                         },
                         "Parent": null
                       },
@@ -4945,7 +4977,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "b7cd065a-09f8-4fc4-a7ed-a0170306ea2b"
+          "Guid": "53269817-5471-4930-92f3-5bc7229785e1"
         },
         "Data": {
           "$id": "899",
@@ -4971,7 +5003,9 @@
                       "AudioData": {
                         "$id": "905",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Shoot!"
+                        "LocalizationTable": "",
+                        "Text": "Shoot!",
+                        "Key": "Shoot!"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -5022,7 +5056,7 @@
                       },
                       "TargetStep": {
                         "$id": "915",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "916",
@@ -5032,7 +5066,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "08513c05-537c-430f-a726-42a4180ed3e6"
+                          "Guid": "f3e237ca-8115-4689-ad4f-2ff7277c1702"
                         },
                         "Parent": null
                       },
@@ -5147,7 +5181,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "08513c05-537c-430f-a726-42a4180ed3e6"
+          "Guid": "f3e237ca-8115-4689-ad4f-2ff7277c1702"
         },
         "Data": {
           "$id": "936",
@@ -5297,7 +5331,7 @@
                       },
                       "TargetStep": {
                         "$id": "964",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "965",
@@ -5307,7 +5341,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "16c94be7-d014-4807-a199-4fda49650929"
+                          "Guid": "d1c3a251-9a45-474c-8fee-09fb3eca0220"
                         },
                         "Parent": null
                       },
@@ -5413,7 +5447,7 @@
             "y": 124.8
           },
           "StepType": "default",
-          "Guid": "16c94be7-d014-4807-a199-4fda49650929"
+          "Guid": "d1c3a251-9a45-474c-8fee-09fb3eca0220"
         },
         "Data": {
           "$id": "982",
@@ -5439,7 +5473,9 @@
                       "AudioData": {
                         "$id": "988",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Try again!"
+                        "LocalizationTable": "",
+                        "Text": "Try again!",
+                        "Key": "Try again!"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -5547,7 +5583,7 @@
                       },
                       "TargetStep": {
                         "$id": "1009",
-                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+ProcessWrapper+StepRef, VRBuilder.Core",
+                        "$type": "VRBuilder.Core.Serialization.NewtonsoftJsonProcessSerializerV4+Wrapper+StepRef, VRBuilder.Core",
                         "LifeCycle": null,
                         "StepMetadata": {
                           "$id": "1010",
@@ -5557,7 +5593,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "b7cd065a-09f8-4fc4-a7ed-a0170306ea2b"
+                          "Guid": "53269817-5471-4930-92f3-5bc7229785e1"
                         },
                         "Parent": null
                       },
@@ -5663,7 +5699,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "2a860bac-681a-4ead-8390-03351d1ba705"
+          "Guid": "24b37bfd-248e-4d9c-b066-9c8bcb8a9c9a"
         },
         "Data": {
           "$id": "1027",
@@ -5689,7 +5725,9 @@
                       "AudioData": {
                         "$id": "1033",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Great shot! This concludes the demo process. If you like VR Builder, please make sure to leave a review on the Unity Asset store. We would be grateful!"
+                        "LocalizationTable": "",
+                        "Text": "Great shot! This concludes the demo process. If you like VR Builder, please make sure to leave a review on the Unity Asset store. We would be grateful!",
+                        "Key": "Great shot! This concludes the demo process. If you like VR Builder, please make sure to leave a review on the Unity Asset store. We would be grateful!"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -5795,14 +5833,11 @@
             "ChapterMetadata": {
               "$id": "1052",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "4"
-              },
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
               },
-              "Guid": "a63b7954-4074-4135-8dc1-d9570cb47a5b"
+              "Guid": "ccb7c5f8-79ed-4f72-8b5b-9fe74600f66f"
             },
             "Data": {
               "$id": "1053",
@@ -5828,14 +5863,11 @@
             "ChapterMetadata": {
               "$id": "1056",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "24"
-              },
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
               },
-              "Guid": "c7201b93-0881-422e-9036-f3a913d01979"
+              "Guid": "543fd5bf-c1d7-406b-ab85-09f780ab6634"
             },
             "Data": {
               "$id": "1057",
@@ -5873,14 +5905,11 @@
             "ChapterMetadata": {
               "$id": "1060",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "217"
-              },
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
               },
-              "Guid": "81e7987d-cdb4-495f-8369-53a8614cc883"
+              "Guid": "d609d417-eddb-424e-b935-b5e7234ee8e6"
             },
             "Data": {
               "$id": "1061",
@@ -5930,14 +5959,11 @@
             "ChapterMetadata": {
               "$id": "1064",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "758"
-              },
               "EntryNodePosition": {
                 "x": -35.2,
                 "y": 0.0
               },
-              "Guid": "190702a9-4a62-4e15-8157-21904f18c2de"
+              "Guid": "f0e159bb-813f-4da5-887c-8afaa15111c1"
             },
             "Data": {
               "$id": "1065",
@@ -5972,14 +5998,11 @@
             "ChapterMetadata": {
               "$id": "1068",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "819"
-              },
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
               },
-              "Guid": "908f5dc8-9266-434c-af1a-f4d88532f84a"
+              "Guid": "a4faaa05-ba9e-4e48-9c1a-40f54d7b1902"
             },
             "Data": {
               "$id": "1069",
@@ -6011,14 +6034,11 @@
             "ChapterMetadata": {
               "$id": "1072",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "934"
-              },
               "EntryNodePosition": {
                 "x": -21.6,
                 "y": 0.0
               },
-              "Guid": "e08bcdf4-3f55-4d9f-91d0-4e88029cd05b"
+              "Guid": "e9463484-7ee8-4d89-9576-eabb2c9580bf"
             },
             "Data": {
               "$id": "1073",
@@ -6050,14 +6070,11 @@
             "ChapterMetadata": {
               "$id": "1076",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "1025"
-              },
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
               },
-              "Guid": "89751f49-40d6-4a1e-8d3e-e27abeee931c"
+              "Guid": "cc6f18e3-19ac-49a6-a573-7cd40b95dd3a"
             },
             "Data": {
               "$id": "1077",
