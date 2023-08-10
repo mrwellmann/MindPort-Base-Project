@@ -1,7 +1,8 @@
 # Place of Asset Store Git Repos
+Assets/MindPort/
 Assets/MindPort*
-# Automatic generated Streaming assets from MindPort Imports
-Assets/StreamingAssets/Processes*
+# Automatic generated TextToSpeech Streaming assets
+Assets/StreamingAssets/TextToSpeech/
 Assets/StreamingAssets/TextToSpeech*
 
 UWP/

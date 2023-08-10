@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: MindPort
   productName: VR-Builder-Git-Import
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -47,7 +47,7 @@ PlayerSettings:
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
   m_StereoRenderingPath: 0
-  m_ActiveColorSpace: 0
+  m_ActiveColorSpace: 1
   m_SpriteBatchVertexThreshold: 300
   m_MTRendering: 1
   mipStripping: 0
@@ -134,7 +134,9 @@ PlayerSettings:
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: -6750527074413547994, guid: daba946e337849647a6fcd419684a98d, type: 2}
+  - {fileID: -4664562504718223983, guid: e8e2fc2e575c96c4db354f77726d5858, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -154,7 +156,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.DefaultCompany.VRBuilderGitImport
+    Android: com.MindPort.VRBuilderGitImport
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -162,7 +164,7 @@ PlayerSettings:
     tvOS: 0
   overrideDefaultApplicationIdentifier: 0
   AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 29
+  AndroidMinSdkVersion: 30
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
   aotOptions: 
@@ -732,7 +734,7 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Android: UNITY_POST_PROCESSING_STACK_V2;VR_BUILDER;VR_BUILDER_ENABLE_XR_INTERACTION;VR_BUILDER_XR_INTERACTION;VR_BUILDER_ANIMATIONS;VR_BUILDER_STATES_DATA;UNITY_NETCODE
+    Android: UNITY_POST_PROCESSING_STACK_V2;VR_BUILDER;VR_BUILDER_ENABLE_XR_INTERACTION;VR_BUILDER_XR_INTERACTION;VR_BUILDER_ANIMATIONS;VR_BUILDER_STATES_DATA;UNITY_NETCODE;USE_INPUT_SYSTEM_POSE_CONTROL
     EmbeddedLinux: UNITY_POST_PROCESSING_STACK_V2
     GameCoreXboxOne: UNITY_POST_PROCESSING_STACK_V2
     Nintendo Switch: UNITY_POST_PROCESSING_STACK_V2
@@ -740,9 +742,10 @@ PlayerSettings:
     PS5: UNITY_POST_PROCESSING_STACK_V2
     QNX: UNITY_POST_PROCESSING_STACK_V2
     Stadia: UNITY_POST_PROCESSING_STACK_V2
-    Standalone: VR_BUILDER;VR_BUILDER_ENABLE_XR_INTERACTION;VR_BUILDER_XR_INTERACTION;UNITY_POST_PROCESSING_STACK_V2;VR_BUILDER_ANIMATIONS;VR_BUILDER_STATES_DATA;UNITY_NETCODE
+    Standalone: VR_BUILDER;VR_BUILDER_ENABLE_XR_INTERACTION;VR_BUILDER_XR_INTERACTION;UNITY_POST_PROCESSING_STACK_V2;VR_BUILDER_ANIMATIONS;VR_BUILDER_STATES_DATA;UNITY_NETCODE;USE_INPUT_SYSTEM_POSE_CONTROL
     VisionOS: UNITY_POST_PROCESSING_STACK_V2
     WebGL: UNITY_POST_PROCESSING_STACK_V2
+    Windows Store Apps: USE_INPUT_SYSTEM_POSE_CONTROL
     XboxOne: UNITY_POST_PROCESSING_STACK_V2
     tvOS: UNITY_POST_PROCESSING_STACK_V2
   additionalCompilerArguments: {}
