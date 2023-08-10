@@ -2248,8 +2248,7 @@
                         "$id": "417",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Welcome! This machine mixes colors. Throw bottles in the hatch to add colors together. Multiple bottles will be needed to achieve full saturation. Once done, press the green button to activate the mixer.",
-                        "Key": "Welcome! This machine mixes colors. Throw bottles in the hatch to add colors together. Multiple bottles will be needed to achieve full saturation. Once done, press the green button to activate the mixer."
+                        "Text": "Welcome! This machine mixes colors. Throw bottles in the hatch to add colors together. Multiple bottles will be needed to achieve full saturation. Once done, press the green button to activate the mixer."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -2877,8 +2876,7 @@
                         "$id": "522",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "And done! Enjoy your new ball.",
-                        "Key": "And done! Enjoy your new ball."
+                        "Text": "And done! Enjoy your new ball."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,

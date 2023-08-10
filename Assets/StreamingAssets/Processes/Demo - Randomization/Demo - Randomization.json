@@ -776,8 +776,7 @@
                         "$id": "142",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "This car hasn’t been used in a while and the tires have low pressure. Inflate them to 32 psi on the front, and 30 on the rear.",
-                        "Key": "This car hasn’t been used in a while and the tires have low pressure. Inflate them to 32 psi on the front, and 30 on the rear."
+                        "Text": "This car hasn’t been used in a while and the tires have low pressure. Inflate them to 32 psi on the front, and 30 on the rear."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -958,8 +957,7 @@
                         "$id": "176",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "It’s hot season and the pressure in the tires is too high. Reduce it to 28 psi in the back and 30 in the front. ",
-                        "Key": "It’s hot season and the pressure in the tires is too high. Reduce it to 28 psi in the back and 30 in the front. "
+                        "Text": "It’s hot season and the pressure in the tires is too high. Reduce it to 28 psi in the back and 30 in the front. "
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -1140,8 +1138,7 @@
                         "$id": "210",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "The rear left tire has just been replaced but it could have the wrong pressure. Check the other rear tire and make them match.",
-                        "Key": "The rear left tire has just been replaced but it could have the wrong pressure. Check the other rear tire and make them match."
+                        "Text": "The rear left tire has just been replaced but it could have the wrong pressure. Check the other rear tire and make them match."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -1322,8 +1319,7 @@
                         "$id": "244",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "When you are done, put the tool in the box to proceed with evaluation.",
-                        "Key": "When you are done, put the tool in the box to proceed with evaluation."
+                        "Text": "When you are done, put the tool in the box to proceed with evaluation."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -1587,8 +1583,7 @@
                         "$id": "294",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Welcome to the demo scene for the Randomization add-on for VR Builder. You will need to set the tires pressure on the car nearby. The scenario is randomized every time. Grab the pressure tool to begin.",
-                        "Key": "Welcome to the demo scene for the Randomization add-on for VR Builder. You will need to set the tires pressure on the car nearby. The scenario is randomized every time. Grab the pressure tool to begin."
+                        "Text": "Welcome to the demo scene for the Randomization add-on for VR Builder. You will need to set the tires pressure on the car nearby. The scenario is randomized every time. Grab the pressure tool to begin."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -2180,8 +2175,7 @@
                         "$id": "398",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Pressure on the front left tyre is too low.",
-                        "Key": "Pressure on the front left tyre is too low."
+                        "Text": "Pressure on the front left tyre is too low."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3481,8 +3475,7 @@
                         "$id": "624",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Pressure on the front left tyre is too high.",
-                        "Key": "Pressure on the front left tyre is too high."
+                        "Text": "Pressure on the front left tyre is too high."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3618,8 +3611,7 @@
                         "$id": "649",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Pressure on the rear right tyre is too low.",
-                        "Key": "Pressure on the rear right tyre is too low."
+                        "Text": "Pressure on the rear right tyre is too low."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3755,8 +3747,7 @@
                         "$id": "674",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Pressure on the rear right tyre is too high.",
-                        "Key": "Pressure on the rear right tyre is too high."
+                        "Text": "Pressure on the rear right tyre is too high."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3892,8 +3883,7 @@
                         "$id": "699",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Pressure on the rear left tyre is too low.",
-                        "Key": "Pressure on the rear left tyre is too low."
+                        "Text": "Pressure on the rear left tyre is too low."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -4029,8 +4019,7 @@
                         "$id": "724",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Pressure on the rear left tyre is too high.",
-                        "Key": "Pressure on the rear left tyre is too high."
+                        "Text": "Pressure on the rear left tyre is too high."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -4166,8 +4155,7 @@
                         "$id": "749",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Pressure on the front right tyre is too low.",
-                        "Key": "Pressure on the front right tyre is too low."
+                        "Text": "Pressure on the front right tyre is too low."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -4303,8 +4291,7 @@
                         "$id": "774",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Pressure on the front right tyre is too high.",
-                        "Key": "Pressure on the front right tyre is too high."
+                        "Text": "Pressure on the front right tyre is too high."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -4710,8 +4697,7 @@
                         "$id": "847",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Congratulations! All tires have been set correctly.",
-                        "Key": "Congratulations! All tires have been set correctly."
+                        "Text": "Congratulations! All tires have been set correctly."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -4836,8 +4822,7 @@
                         "$id": "870",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "You made some mistakes. Run the application again to try another time!",
-                        "Key": "You made some mistakes. Run the application again to try another time!"
+                        "Text": "You made some mistakes. Run the application again to try another time!"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,

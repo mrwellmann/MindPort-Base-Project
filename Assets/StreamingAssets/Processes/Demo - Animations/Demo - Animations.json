@@ -48,8 +48,7 @@
                         "$id": "12",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Welcome to the demo of the Animations package.",
-                        "Key": "Welcome to the demo of the Animations package."
+                        "Text": "Welcome to the demo of the Animations package."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -581,8 +580,7 @@
                         "$id": "106",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Push the button to test the Follow Path behavior.",
-                        "Key": "Push the button to test the Follow Path behavior."
+                        "Text": "Push the button to test the Follow Path behavior."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -889,8 +887,7 @@
                         "$id": "160",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Push the buttons to test the Animate Transform behavior.",
-                        "Key": "Push the buttons to test the Animate Transform behavior."
+                        "Text": "Push the buttons to test the Animate Transform behavior."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -5661,8 +5658,7 @@
                         "$id": "796",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Touch the screws to screw or unscrew them.",
-                        "Key": "Touch the screws to screw or unscrew them."
+                        "Text": "Touch the screws to screw or unscrew them."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -6076,8 +6072,7 @@
                         "$id": "855",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Great job! Feel free to check out another station by teleporting back to the starting point.",
-                        "Key": "Great job! Feel free to check out another station by teleporting back to the starting point."
+                        "Text": "Great job! Feel free to check out another station by teleporting back to the starting point."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -6513,8 +6508,7 @@
                         "$id": "916",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Touch the object in front of you to explode its view.",
-                        "Key": "Touch the object in front of you to explode its view."
+                        "Text": "Touch the object in front of you to explode its view."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -7143,8 +7137,7 @@
                         "$id": "1018",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Touch the object again to restore its original state.",
-                        "Key": "Touch the object again to restore its original state."
+                        "Text": "Touch the object again to restore its original state."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,

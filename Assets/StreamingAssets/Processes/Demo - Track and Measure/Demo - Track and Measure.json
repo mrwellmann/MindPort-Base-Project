@@ -48,8 +48,7 @@
                         "$id": "12",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Welcome to the demo scene for the track and measure add-on for VR Builder. Teleport to a station to check out some of the add-on's features.",
-                        "Key": "Welcome to the demo scene for the track and measure add-on for VR Builder. Teleport to a station to check out some of the add-on's features."
+                        "Text": "Welcome to the demo scene for the track and measure add-on for VR Builder. Teleport to a station to check out some of the add-on's features."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -364,8 +363,7 @@
                         "$id": "69",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Build a pyramid with the cubes. The timer will start when you grab the first cube. You can reset the table at any time by pressing that inconspicuous red button.",
-                        "Key": "Build a pyramid with the cubes. The timer will start when you grab the first cube. You can reset the table at any time by pressing that inconspicuous red button."
+                        "Text": "Build a pyramid with the cubes. The timer will start when you grab the first cube. You can reset the table at any time by pressing that inconspicuous red button."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -1313,8 +1311,7 @@
                         "$id": "236",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Now the second layer",
-                        "Key": "Now the second layer"
+                        "Text": "Now the second layer"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -1690,8 +1687,7 @@
                         "$id": "303",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "One last cube",
-                        "Key": "One last cube"
+                        "Text": "One last cube"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -2009,8 +2005,7 @@
                         "$id": "358",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "And done!",
-                        "Key": "And done!"
+                        "Text": "And done!"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -2676,8 +2671,7 @@
                         "$id": "472",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Resetting",
-                        "Key": "Resetting"
+                        "Text": "Resetting"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3110,8 +3104,7 @@
                         "$id": "558",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "That was a great performance.",
-                        "Key": "That was a great performance."
+                        "Text": "That was a great performance."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3273,8 +3266,7 @@
                         "$id": "587",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "It was a good performance, but you can do better.",
-                        "Key": "It was a good performance, but you can do better."
+                        "Text": "It was a good performance, but you can do better."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3436,8 +3428,7 @@
                         "$id": "616",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "You sure took your time! Next time, try to bring out your inner toddler.",
-                        "Key": "You sure took your time! Next time, try to bring out your inner toddler."
+                        "Text": "You sure took your time! Next time, try to bring out your inner toddler."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3599,8 +3590,7 @@
                         "$id": "645",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "You can reset the table to try again.",
-                        "Key": "You can reset the table to try again."
+                        "Text": "You can reset the table to try again."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3794,8 +3784,7 @@
                         "$id": "679",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Wow, that was incredible!",
-                        "Key": "Wow, that was incredible!"
+                        "Text": "Wow, that was incredible!"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -3916,8 +3905,7 @@
                         "$id": "701",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Congratulations! You managed to trigger the line for the longest time threshold. You did this on purpose, right?",
-                        "Key": "Congratulations! You managed to trigger the line for the longest time threshold. You did this on purpose, right?"
+                        "Text": "Congratulations! You managed to trigger the line for the longest time threshold. You did this on purpose, right?"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -7148,8 +7136,7 @@
                         "$id": "1275",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "That wasn't too hard, was it?",
-                        "Key": "That wasn't too hard, was it?"
+                        "Text": "That wasn't too hard, was it?"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -7270,8 +7257,7 @@
                         "$id": "1297",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Acting randomly would have yielded a better score. Did you deliberately choose to fail?",
-                        "Key": "Acting randomly would have yielded a better score. Did you deliberately choose to fail?"
+                        "Text": "Acting randomly would have yielded a better score. Did you deliberately choose to fail?"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -7392,8 +7378,7 @@
                         "$id": "1319",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "You can do better. Why not try again?",
-                        "Key": "You can do better. Why not try again?"
+                        "Text": "You can do better. Why not try again?"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -7514,8 +7499,7 @@
                         "$id": "1341",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "The table will now reset.",
-                        "Key": "The table will now reset."
+                        "Text": "The table will now reset."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -7692,8 +7676,7 @@
                         "$id": "1375",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Push the button corresponding to the color of the cube.",
-                        "Key": "Push the button corresponding to the color of the cube."
+                        "Text": "Push the button corresponding to the color of the cube."
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
@@ -7814,8 +7797,7 @@
                         "$id": "1397",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
                         "LocalizationTable": "",
-                        "Text": "Not to hurt your feelings, but are you sure you got the instructions right?",
-                        "Key": "Not to hurt your feelings, but are you sure you got the instructions right?"
+                        "Text": "Not to hurt your feelings, but are you sure you got the instructions right?"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
