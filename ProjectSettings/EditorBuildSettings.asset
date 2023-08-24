@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Mindport/VR Builder/Add-ons/Animations/Demo/Scenes/VR Builder Demo
+    path: Assets/MindPort/VR Builder/Add-ons/Animations/Demo/Scenes/VR Builder Demo
       - Animations.unity
     guid: dde28a15244a9314badb5bd1ef9c3c77
   m_configObjects:
