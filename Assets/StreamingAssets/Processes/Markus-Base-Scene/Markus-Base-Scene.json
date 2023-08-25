@@ -18,7 +18,7 @@
     "ProcessMetadata": {
       "$id": "5",
       "$type": "VRBuilder.Core.ProcessMetadata, VRBuilder.Core",
-      "StringLocalizationTable": null,
+      "StringLocalizationTable": "Default Localization Table",
       "Guid": "be9bbfd0-dc5b-434f-b8d0-6b32efb0d284"
     },
     "Data": {

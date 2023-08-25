@@ -11737,6 +11737,7 @@ MonoBehaviour:
   runtimeConfigurationName: VRBuilder.Core.Configuration.DefaultRuntimeConfiguration,
     VRBuilder.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   selectedProcessStreamingAssetsPath: Processes/Markus-Base-Scene/Markus-Base-Scene.json
+  processStringLocalizationTable: Default Localization Table
 --- !u!4 &2006404745
 Transform:
   m_ObjectHideFlags: 0
