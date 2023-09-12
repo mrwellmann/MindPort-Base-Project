@@ -47,7 +47,6 @@
                       "AudioData": {
                         "$id": "12",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Welcome to the demo of the Animations package."
                       },
                       "ExecutionStages": 1,
@@ -579,7 +578,6 @@
                       "AudioData": {
                         "$id": "106",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Push the button to test the Follow Path behavior."
                       },
                       "ExecutionStages": 1,
@@ -886,7 +884,6 @@
                       "AudioData": {
                         "$id": "160",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Push the buttons to test the Animate Transform behavior."
                       },
                       "ExecutionStages": 1,
@@ -5657,7 +5654,6 @@
                       "AudioData": {
                         "$id": "796",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Touch the screws to screw or unscrew them."
                       },
                       "ExecutionStages": 1,
@@ -6071,7 +6067,6 @@
                       "AudioData": {
                         "$id": "855",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Great job! Feel free to check out another station by teleporting back to the starting point."
                       },
                       "ExecutionStages": 1,
@@ -6507,7 +6502,6 @@
                       "AudioData": {
                         "$id": "916",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Touch the object in front of you to explode its view."
                       },
                       "ExecutionStages": 1,
@@ -7136,7 +7130,6 @@
                       "AudioData": {
                         "$id": "1018",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Touch the object again to restore its original state."
                       },
                       "ExecutionStages": 1,
@@ -7548,19 +7541,26 @@
     "$id": "1083",
     "$type": "VRBuilder.Core.Process, VRBuilder.Core",
     "CurrentStep": null,
-    "Data": {
+    "ProcessMetadata": {
       "$id": "1084",
+      "$type": "VRBuilder.Core.ProcessMetadata, VRBuilder.Core",
+      "StringLocalizationTable": null,
+      "Guid": "91622681-d275-40e7-8a96-825eab58df15"
+    },
+    "Data": {
+      "$id": "1085",
       "$type": "VRBuilder.Core.Process+EntityData, VRBuilder.Core",
       "Chapters": {
-        "$id": "1085",
+        "$id": "1086",
         "$type": "System.Collections.Generic.List`1[[VRBuilder.Core.IChapter, VRBuilder.Core]], mscorlib",
         "$values": [
           {
-            "$id": "1086",
+            "$id": "1087",
             "$type": "VRBuilder.Core.Chapter, VRBuilder.Core",
             "ChapterMetadata": {
-              "$id": "1087",
+              "$id": "1088",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": -267.2,
                 "y": 266.400024
@@ -7568,14 +7568,14 @@
               "Guid": "b02d3f5d-de4c-4f2d-b739-957a8bd2e9f8"
             },
             "Data": {
-              "$id": "1088",
+              "$id": "1089",
               "$type": "VRBuilder.Core.Chapter+EntityData, VRBuilder.Core",
               "Name": "Chapter 1",
               "FirstStep": {
                 "$ref": "4"
               },
               "Steps": {
-                "$id": "1089",
+                "$id": "1090",
                 "$type": "System.Collections.Generic.List`1[[VRBuilder.Core.IStep, VRBuilder.Core]], mscorlib",
                 "$values": [
                   {
@@ -7663,7 +7663,7 @@
         ]
       },
       "FirstChapter": {
-        "$ref": "1086"
+        "$ref": "1087"
       },
       "Name": "Demo - Animations",
       "Mode": null,
