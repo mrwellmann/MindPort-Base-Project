@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Markus-Network-Scene.unity
+    path: Assets/[Markus]/Markus-Network-Scene.unity
     guid: af24106fb31c0644aaed574144c53d76
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7585211d89709dd4aa7ff16ca3346bec, type: 2}
