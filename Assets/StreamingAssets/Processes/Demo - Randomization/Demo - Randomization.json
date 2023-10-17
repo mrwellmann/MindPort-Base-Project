@@ -775,7 +775,6 @@
                       "AudioData": {
                         "$id": "142",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "This car hasn’t been used in a while and the tires have low pressure. Inflate them to 32 psi on the front, and 30 on the rear."
                       },
                       "ExecutionStages": 1,
@@ -956,7 +955,6 @@
                       "AudioData": {
                         "$id": "176",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "It’s hot season and the pressure in the tires is too high. Reduce it to 28 psi in the back and 30 in the front. "
                       },
                       "ExecutionStages": 1,
@@ -1137,7 +1135,6 @@
                       "AudioData": {
                         "$id": "210",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "The rear left tire has just been replaced but it could have the wrong pressure. Check the other rear tire and make them match."
                       },
                       "ExecutionStages": 1,
@@ -1318,7 +1315,6 @@
                       "AudioData": {
                         "$id": "244",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "When you are done, put the tool in the box to proceed with evaluation."
                       },
                       "ExecutionStages": 1,
@@ -1582,7 +1578,6 @@
                       "AudioData": {
                         "$id": "294",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Welcome to the demo scene for the Randomization add-on for VR Builder. You will need to set the tires pressure on the car nearby. The scenario is randomized every time. Grab the pressure tool to begin."
                       },
                       "ExecutionStages": 1,
@@ -2174,7 +2169,6 @@
                       "AudioData": {
                         "$id": "398",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Pressure on the front left tyre is too low."
                       },
                       "ExecutionStages": 1,
@@ -3474,7 +3468,6 @@
                       "AudioData": {
                         "$id": "624",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Pressure on the front left tyre is too high."
                       },
                       "ExecutionStages": 1,
@@ -3610,7 +3603,6 @@
                       "AudioData": {
                         "$id": "649",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Pressure on the rear right tyre is too low."
                       },
                       "ExecutionStages": 1,
@@ -3746,7 +3738,6 @@
                       "AudioData": {
                         "$id": "674",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Pressure on the rear right tyre is too high."
                       },
                       "ExecutionStages": 1,
@@ -3882,7 +3873,6 @@
                       "AudioData": {
                         "$id": "699",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Pressure on the rear left tyre is too low."
                       },
                       "ExecutionStages": 1,
@@ -4018,7 +4008,6 @@
                       "AudioData": {
                         "$id": "724",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Pressure on the rear left tyre is too high."
                       },
                       "ExecutionStages": 1,
@@ -4154,7 +4143,6 @@
                       "AudioData": {
                         "$id": "749",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Pressure on the front right tyre is too low."
                       },
                       "ExecutionStages": 1,
@@ -4290,7 +4278,6 @@
                       "AudioData": {
                         "$id": "774",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Pressure on the front right tyre is too high."
                       },
                       "ExecutionStages": 1,
@@ -4696,7 +4683,6 @@
                       "AudioData": {
                         "$id": "847",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "Congratulations! All tires have been set correctly."
                       },
                       "ExecutionStages": 1,
@@ -4821,7 +4807,6 @@
                       "AudioData": {
                         "$id": "870",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "LocalizationTable": "",
                         "Text": "You made some mistakes. Run the application again to try another time!"
                       },
                       "ExecutionStages": 1,
@@ -4896,19 +4881,26 @@
     "$id": "882",
     "$type": "VRBuilder.Core.Process, VRBuilder.Core",
     "CurrentStep": null,
-    "Data": {
+    "ProcessMetadata": {
       "$id": "883",
+      "$type": "VRBuilder.Core.ProcessMetadata, VRBuilder.Core",
+      "StringLocalizationTable": null,
+      "Guid": "71929f31-13cb-4a42-9373-44cdf3c50d3d"
+    },
+    "Data": {
+      "$id": "884",
       "$type": "VRBuilder.Core.Process+EntityData, VRBuilder.Core",
       "Chapters": {
-        "$id": "884",
+        "$id": "885",
         "$type": "System.Collections.Generic.List`1[[VRBuilder.Core.IChapter, VRBuilder.Core]], mscorlib",
         "$values": [
           {
-            "$id": "885",
+            "$id": "886",
             "$type": "VRBuilder.Core.Chapter, VRBuilder.Core",
             "ChapterMetadata": {
-              "$id": "886",
+              "$id": "887",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": -349.6,
                 "y": -3.19999886
@@ -4916,14 +4908,14 @@
               "Guid": "73543015-2da3-4e74-b7b0-c7b047a81841"
             },
             "Data": {
-              "$id": "887",
+              "$id": "888",
               "$type": "VRBuilder.Core.Chapter+EntityData, VRBuilder.Core",
               "Name": "Check Pressure",
               "FirstStep": {
                 "$ref": "286"
               },
               "Steps": {
-                "$id": "888",
+                "$id": "889",
                 "$type": "System.Collections.Generic.List`1[[VRBuilder.Core.IStep, VRBuilder.Core]], mscorlib",
                 "$values": [
                   {
@@ -4958,11 +4950,12 @@
             }
           },
           {
-            "$id": "889",
+            "$id": "890",
             "$type": "VRBuilder.Core.Chapter, VRBuilder.Core",
             "ChapterMetadata": {
-              "$id": "890",
+              "$id": "891",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
@@ -4970,14 +4963,14 @@
               "Guid": "60923597-ecf5-4a4e-8abb-983374616b8d"
             },
             "Data": {
-              "$id": "891",
+              "$id": "892",
               "$type": "VRBuilder.Core.Chapter+EntityData, VRBuilder.Core",
               "Name": "Evaluation",
               "FirstStep": {
                 "$ref": "323"
               },
               "Steps": {
-                "$id": "892",
+                "$id": "893",
                 "$type": "System.Collections.Generic.List`1[[VRBuilder.Core.IStep, VRBuilder.Core]], mscorlib",
                 "$values": [
                   {
@@ -5032,7 +5025,7 @@
         ]
       },
       "FirstChapter": {
-        "$ref": "885"
+        "$ref": "886"
       },
       "Name": "Demo - Randomization",
       "Mode": null,
