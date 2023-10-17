@@ -2810,7 +2810,7 @@ MonoBehaviour:
       m_Name: Is Tracked
       m_Type: 1
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: cd5f963a-6f0d-4c67-853d-e1b6a27984ae
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -2906,7 +2906,7 @@ MonoBehaviour:
       m_Name: UI Scroll
       m_Type: 0
       m_ExpectedControlType: Vector2
-      m_Id: 
+      m_Id: c8601623-8068-45f9-a97d-f0a91b3a1550
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -3571,7 +3571,7 @@ MonoBehaviour:
       m_Name: Is Tracked
       m_Type: 1
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: a8b2b733-6901-4402-bff6-0b45d0b128cb
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -3667,7 +3667,7 @@ MonoBehaviour:
       m_Name: UI Scroll
       m_Type: 0
       m_ExpectedControlType: Vector2
-      m_Id: 
+      m_Id: 968eb1e9-fe2c-4084-918c-d56e7abdd9bf
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -3700,10 +3700,10 @@ MonoBehaviour:
   m_DirectionalAnchorRotationAction:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Directional Anchor Rotation
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: 42a139fa-5305-4c85-bbd8-7dd91dfb32ea
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -6878,7 +6878,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 257
   m_DistanceCalculationMode: 1
   m_SelectMode: 1
   m_FocusMode: 1
