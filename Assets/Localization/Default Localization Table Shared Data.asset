@@ -27,6 +27,10 @@ MonoBehaviour:
     m_Key: Teleport to 1st station
     m_Metadata:
       m_Items: []
+  - m_Id: 19899481305636864
+    m_Key: Grab
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

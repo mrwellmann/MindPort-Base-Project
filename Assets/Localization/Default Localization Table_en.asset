@@ -32,6 +32,10 @@ MonoBehaviour:
       there.
     m_Metadata:
       m_Items: []
+  - m_Id: 19899481305636864
+    m_Localized: Grab
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
