@@ -17,8 +17,8 @@
           "$id": "5",
           "$type": "VRBuilder.Core.StepMetadata, VRBuilder.Core",
           "Position": {
-            "x": 312.666656,
-            "y": 139.333344
+            "x": 312.0,
+            "y": 138.666672
           },
           "StepType": "default",
           "Guid": "7c7f3c18-2322-4b4f-8428-78211065b098"
@@ -221,7 +221,7 @@
                           "Conditions": {
                             "$id": "43",
                             "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                            "VRBuilder.Core.Attributes.FoldableAttribute": true,
+                            "VRBuilder.Core.Attributes.FoldableAttribute": false,
                             "VRBuilder.Core.Attributes.ReorderableListOfAttribute": {
                               "$id": "44",
                               "$type": "VRBuilder.Core.Attributes.ListOfAttribute+Metadata, VRBuilder.Core",
@@ -327,7 +327,7 @@
                           "Conditions": {
                             "$id": "60",
                             "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                            "VRBuilder.Core.Attributes.FoldableAttribute": true,
+                            "VRBuilder.Core.Attributes.FoldableAttribute": false,
                             "VRBuilder.Core.Attributes.ReorderableListOfAttribute": {
                               "$id": "61",
                               "$type": "VRBuilder.Core.Attributes.ListOfAttribute+Metadata, VRBuilder.Core",
@@ -433,7 +433,7 @@
                           "Conditions": {
                             "$id": "77",
                             "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                            "VRBuilder.Core.Attributes.FoldableAttribute": true,
+                            "VRBuilder.Core.Attributes.FoldableAttribute": false,
                             "VRBuilder.Core.Attributes.ReorderableListOfAttribute": {
                               "$id": "78",
                               "$type": "VRBuilder.Core.Attributes.ListOfAttribute+Metadata, VRBuilder.Core",
@@ -539,7 +539,7 @@
                           "Conditions": {
                             "$id": "94",
                             "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                            "VRBuilder.Core.Attributes.FoldableAttribute": true,
+                            "VRBuilder.Core.Attributes.FoldableAttribute": false,
                             "VRBuilder.Core.Attributes.ReorderableListOfAttribute": {
                               "$id": "95",
                               "$type": "VRBuilder.Core.Attributes.ListOfAttribute+Metadata, VRBuilder.Core",
@@ -654,7 +654,7 @@
                           "Conditions": {
                             "$id": "114",
                             "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                            "VRBuilder.Core.Attributes.FoldableAttribute": true,
+                            "VRBuilder.Core.Attributes.FoldableAttribute": false,
                             "VRBuilder.Core.Attributes.ReorderableListOfAttribute": {
                               "$id": "115",
                               "$type": "VRBuilder.Core.Attributes.ListOfAttribute+Metadata, VRBuilder.Core",
@@ -865,7 +865,7 @@
                           "Conditions": {
                             "$id": "148",
                             "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                            "VRBuilder.Core.Attributes.FoldableAttribute": true,
+                            "VRBuilder.Core.Attributes.FoldableAttribute": false,
                             "VRBuilder.Core.Attributes.ReorderableListOfAttribute": {
                               "$id": "149",
                               "$type": "VRBuilder.Core.Attributes.ListOfAttribute+Metadata, VRBuilder.Core",
@@ -1076,8 +1076,8 @@
           "$id": "184",
           "$type": "VRBuilder.Core.StepMetadata, VRBuilder.Core",
           "Position": {
-            "x": 803.3333,
-            "y": 149.333344
+            "x": 651.3333,
+            "y": 142.0
           },
           "StepType": "default",
           "Guid": "5dab6531-cb5a-464d-b109-10bbabbd31ee"
@@ -1215,7 +1215,7 @@
               "TabsGroup": {
                 "$id": "211",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 0
+                "selected": 2
               }
             }
           }

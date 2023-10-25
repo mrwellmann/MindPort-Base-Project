@@ -690,7 +690,6 @@ MonoBehaviour:
       m_Action: Rotation
       m_Flags: 0
     m_Flags: 0
-  m_HasMigratedActions: 1
 --- !u!81 &90476518
 AudioListener:
   m_ObjectHideFlags: 0
@@ -10218,7 +10217,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   runtimeConfigurationName: VRBuilder.Core.Configuration.DefaultRuntimeConfiguration,
     VRBuilder.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-  selectedProcessStreamingAssetsPath: Processes/TestingReferencing/TestingReferencing.json
+  selectedProcessStreamingAssetsPath: Processes/TestingReferencingNew/TestingReferencingNew.json
   processStringLocalizationTable: Default Localization Table
 --- !u!4 &2006404745
 Transform:
