@@ -26,6 +26,14 @@ MonoBehaviour:
     m_Localized: "Herzlich willkommen! Ich werde Sie durch diesen Kurs f\xFChren."
     m_Metadata:
       m_Items: []
+  - m_Id: 22446503225188352
+    m_Localized: Telportpoint 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22446435646562304
+    m_Localized: Telportpoint 1
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
