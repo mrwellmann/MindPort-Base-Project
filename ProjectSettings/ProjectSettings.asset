@@ -136,7 +136,8 @@ PlayerSettings:
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 11400000, guid: 1906d3c88e1143d46a92c2b71bb19252, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -735,7 +736,7 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Android: UNITY_POST_PROCESSING_STACK_V2;VR_BUILDER;VR_BUILDER_ENABLE_XR_INTERACTION;VR_BUILDER_XR_INTERACTION;VR_BUILDER_ANIMATIONS;VR_BUILDER_STATES_DATA;UNITY_NETCODE;USE_INPUT_SYSTEM_POSE_CONTROL
+    Android: UNITY_POST_PROCESSING_STACK_V2;VR_BUILDER;VR_BUILDER_ENABLE_XR_INTERACTION;VR_BUILDER_XR_INTERACTION;UNITY_NETCODE;USE_INPUT_SYSTEM_POSE_CONTROL
     EmbeddedLinux: UNITY_POST_PROCESSING_STACK_V2
     GameCoreXboxOne: UNITY_POST_PROCESSING_STACK_V2
     Nintendo Switch: UNITY_POST_PROCESSING_STACK_V2

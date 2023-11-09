@@ -31,6 +31,10 @@ MonoBehaviour:
     m_Key: Grab
     m_Metadata:
       m_Items: []
+  - m_Id: 23068722729050112
+    m_Key: Grabed
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

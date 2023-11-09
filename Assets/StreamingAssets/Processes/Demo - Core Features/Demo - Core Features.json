@@ -21,7 +21,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "33f42330-bc57-496e-92a6-4a9b26d28e4d"
+          "Guid": "9df90f3b-b196-4f25-a64f-88e6e4991dbd"
         },
         "Data": {
           "$id": "6",
@@ -126,7 +126,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "49f77a17-d74e-42bf-8d3d-379cb9fbcff6"
+          "Guid": "2160d04c-8531-48b3-b8e4-26c236f5944e"
         },
         "Data": {
           "$id": "26",
@@ -212,7 +212,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "f311c64c-a973-4f87-bb35-fc04fd87f3f2"
+                          "Guid": "8cc3e384-8a19-49ca-ae59-ff283a3f2d08"
                         },
                         "Parent": null
                       },
@@ -327,7 +327,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "f311c64c-a973-4f87-bb35-fc04fd87f3f2"
+          "Guid": "8cc3e384-8a19-49ca-ae59-ff283a3f2d08"
         },
         "Data": {
           "$id": "63",
@@ -415,7 +415,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "6f0b6cbd-7b38-418e-be28-d1c6d225d7fa"
+                          "Guid": "6f1836bf-466e-4126-acd2-03e70f5424a4"
                         },
                         "Parent": null
                       },
@@ -521,7 +521,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "6f0b6cbd-7b38-418e-be28-d1c6d225d7fa"
+          "Guid": "6f1836bf-466e-4126-acd2-03e70f5424a4"
         },
         "Data": {
           "$id": "97",
@@ -612,7 +612,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "7db59b68-916d-4ee6-b1bd-e8a0df1556da"
+                          "Guid": "eb75b506-643e-42b9-84b2-d110255a6cfc"
                         },
                         "Parent": null
                       },
@@ -718,7 +718,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "53e1abe9-345f-41e1-a82d-4b635e6fb12f"
+          "Guid": "f69ffa4a-6fc9-44b6-b18a-2c9e1c2f10f2"
         },
         "Data": {
           "$id": "132",
@@ -981,7 +981,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "7db59b68-916d-4ee6-b1bd-e8a0df1556da"
+          "Guid": "eb75b506-643e-42b9-84b2-d110255a6cfc"
         },
         "Data": {
           "$id": "182",
@@ -1068,7 +1068,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "53e1abe9-345f-41e1-a82d-4b635e6fb12f"
+                          "Guid": "f69ffa4a-6fc9-44b6-b18a-2c9e1c2f10f2"
                         },
                         "Parent": null
                       },
@@ -1183,7 +1183,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "dff5306f-a097-4b4e-9aa4-375a4c8c6cc8"
+          "Guid": "1090808f-9363-4e32-b705-c940c6095117"
         },
         "Data": {
           "$id": "219",
@@ -1290,7 +1290,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "9f92ec94-cab6-4d15-b8fd-393bb940d25f"
+                          "Guid": "c8f9bdb0-5637-437c-a937-b97e0869cc15"
                         },
                         "Parent": null
                       },
@@ -1396,7 +1396,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "9f92ec94-cab6-4d15-b8fd-393bb940d25f"
+          "Guid": "c8f9bdb0-5637-437c-a937-b97e0869cc15"
         },
         "Data": {
           "$id": "257",
@@ -1464,7 +1464,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "058e5da3-aa1b-425f-8947-4489ffe1bd00"
+                          "Guid": "eec7ad41-9aca-4426-9ca1-e14d4b7083de"
                         },
                         "Parent": null
                       },
@@ -1578,7 +1578,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "dff5306f-a097-4b4e-9aa4-375a4c8c6cc8"
+                          "Guid": "1090808f-9363-4e32-b705-c940c6095117"
                         },
                         "Parent": null
                       },
@@ -1684,7 +1684,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "058e5da3-aa1b-425f-8947-4489ffe1bd00"
+          "Guid": "eec7ad41-9aca-4426-9ca1-e14d4b7083de"
         },
         "Data": {
           "$id": "308",
@@ -1775,7 +1775,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "646149b7-4b86-4b24-9089-a6292fb06f42"
+                          "Guid": "cfb77ac6-048d-4cc3-9d88-1e7181d597cc"
                         },
                         "Parent": null
                       },
@@ -1889,7 +1889,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "9f345cc3-e67a-4cbf-a6ca-406b8c6f58f8"
+                          "Guid": "df0b676f-f2c7-4d82-bc2a-dba601869918"
                         },
                         "Parent": null
                       },
@@ -1995,7 +1995,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "646149b7-4b86-4b24-9089-a6292fb06f42"
+          "Guid": "cfb77ac6-048d-4cc3-9d88-1e7181d597cc"
         },
         "Data": {
           "$id": "363",
@@ -2083,7 +2083,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "a449adad-2241-40ee-a937-0bd48ae5c959"
+                          "Guid": "ae7ca592-681b-4e2b-9eab-56aa68bdf368"
                         },
                         "Parent": null
                       },
@@ -2189,7 +2189,7 @@
             "y": 145.6
           },
           "StepType": "default",
-          "Guid": "9f345cc3-e67a-4cbf-a6ca-406b8c6f58f8"
+          "Guid": "df0b676f-f2c7-4d82-bc2a-dba601869918"
         },
         "Data": {
           "$id": "397",
@@ -2277,7 +2277,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "058e5da3-aa1b-425f-8947-4489ffe1bd00"
+                          "Guid": "eec7ad41-9aca-4426-9ca1-e14d4b7083de"
                         },
                         "Parent": null
                       },
@@ -2383,7 +2383,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "a449adad-2241-40ee-a937-0bd48ae5c959"
+          "Guid": "ae7ca592-681b-4e2b-9eab-56aa68bdf368"
         },
         "Data": {
           "$id": "431",
@@ -2470,7 +2470,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "fe789460-6306-409f-9ca3-34f0a1f7515f"
+                          "Guid": "2bc7f194-461d-42e7-9bda-0b4fd99f2549"
                         },
                         "Parent": null
                       },
@@ -2576,7 +2576,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "fe789460-6306-409f-9ca3-34f0a1f7515f"
+          "Guid": "2bc7f194-461d-42e7-9bda-0b4fd99f2549"
         },
         "Data": {
           "$id": "465",
@@ -2683,7 +2683,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "5f6dffa9-1eda-48d1-a534-d85c65b6aab5"
+                          "Guid": "417cea6e-4d33-4a71-9b4c-73c810adf112"
                         },
                         "Parent": null
                       },
@@ -2788,7 +2788,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "a449adad-2241-40ee-a937-0bd48ae5c959"
+                          "Guid": "ae7ca592-681b-4e2b-9eab-56aa68bdf368"
                         },
                         "Parent": null
                       },
@@ -2954,7 +2954,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "5f6dffa9-1eda-48d1-a534-d85c65b6aab5"
+          "Guid": "417cea6e-4d33-4a71-9b4c-73c810adf112"
         },
         "Data": {
           "$id": "533",
@@ -3099,7 +3099,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "637171b4-bdc8-4128-b966-419158772a37"
+                          "Guid": "8e4a724b-060f-4970-a01a-46982bf32ae0"
                         },
                         "Parent": null
                       },
@@ -3245,7 +3245,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "637171b4-bdc8-4128-b966-419158772a37"
+          "Guid": "8e4a724b-060f-4970-a01a-46982bf32ae0"
         },
         "Data": {
           "$id": "588",
@@ -3403,7 +3403,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "3d9b96c1-682f-4131-a275-3bd5496d5a28"
+          "Guid": "ff30337c-b012-4981-87e6-4c5d8eb5b2c9"
         },
         "Data": {
           "$id": "619",
@@ -3494,7 +3494,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "292f2971-edb1-4fd8-96b6-531195150c7b"
+                          "Guid": "f4a96041-8c8a-4c15-827b-aad91fb4f74a"
                         },
                         "Parent": null
                       },
@@ -3612,7 +3612,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "292f2971-edb1-4fd8-96b6-531195150c7b"
+                          "Guid": "f4a96041-8c8a-4c15-827b-aad91fb4f74a"
                         },
                         "Parent": null
                       },
@@ -3718,7 +3718,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "34b975ab-4e5b-4264-a2bb-a2ad9e73deea"
+          "Guid": "0e0942a7-67e6-451b-bc8e-310c206be2a8"
         },
         "Data": {
           "$id": "675",
@@ -3787,7 +3787,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "3d9b96c1-682f-4131-a275-3bd5496d5a28"
+                          "Guid": "ff30337c-b012-4981-87e6-4c5d8eb5b2c9"
                         },
                         "Parent": null
                       },
@@ -3877,7 +3877,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "292f2971-edb1-4fd8-96b6-531195150c7b"
+          "Guid": "f4a96041-8c8a-4c15-827b-aad91fb4f74a"
         },
         "Data": {
           "$id": "704",
@@ -3966,7 +3966,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "e0316d81-71c8-4403-82ce-03c04f226582"
+                          "Guid": "e6d94b7c-ffd9-4ab7-bbb8-52ca8c6dc008"
                         },
                         "Parent": null
                       },
@@ -4084,7 +4084,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "e0316d81-71c8-4403-82ce-03c04f226582"
+                          "Guid": "e6d94b7c-ffd9-4ab7-bbb8-52ca8c6dc008"
                         },
                         "Parent": null
                       },
@@ -4190,7 +4190,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "e0316d81-71c8-4403-82ce-03c04f226582"
+          "Guid": "e6d94b7c-ffd9-4ab7-bbb8-52ca8c6dc008"
         },
         "Data": {
           "$id": "760",
@@ -4334,7 +4334,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "2493047c-7260-4b26-af1b-7b2e8e8453dd"
+          "Guid": "e246fe75-1498-437a-a2a3-4de7378d450f"
         },
         "Data": {
           "$id": "787",
@@ -4420,7 +4420,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "5ae16ae5-8776-48d9-a6fd-2d705be28bfe"
+                          "Guid": "de857802-ba46-4aa6-9ce4-7defae092df7"
                         },
                         "Parent": null
                       },
@@ -4526,7 +4526,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "fadd7b13-3c83-4f51-950a-51bf0922a9b8"
+          "Guid": "ef74600c-2364-4af2-b22b-c79e706cc145"
         },
         "Data": {
           "$id": "821",
@@ -4728,7 +4728,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "5ae16ae5-8776-48d9-a6fd-2d705be28bfe"
+          "Guid": "de857802-ba46-4aa6-9ce4-7defae092df7"
         },
         "Data": {
           "$id": "859",
@@ -4830,7 +4830,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "fadd7b13-3c83-4f51-950a-51bf0922a9b8"
+                          "Guid": "ef74600c-2364-4af2-b22b-c79e706cc145"
                         },
                         "Parent": null
                       },
@@ -4945,7 +4945,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "7955a553-562e-4a0f-b31d-c5c3173dae71"
+          "Guid": "85ce1ea8-221d-42be-a987-b10ac94ddd5f"
         },
         "Data": {
           "$id": "899",
@@ -5032,7 +5032,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "f4b06b85-0116-4a71-b5fd-a1d6c76d298e"
+                          "Guid": "4e79ba14-c384-4de0-a8ce-18d6b1ebc1db"
                         },
                         "Parent": null
                       },
@@ -5147,7 +5147,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "f4b06b85-0116-4a71-b5fd-a1d6c76d298e"
+          "Guid": "4e79ba14-c384-4de0-a8ce-18d6b1ebc1db"
         },
         "Data": {
           "$id": "936",
@@ -5307,7 +5307,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "c21289a6-bcfd-487b-8049-94739a5574ac"
+                          "Guid": "87d5a9db-da59-4a06-87e8-fbf73228065c"
                         },
                         "Parent": null
                       },
@@ -5413,7 +5413,7 @@
             "y": 124.8
           },
           "StepType": "default",
-          "Guid": "c21289a6-bcfd-487b-8049-94739a5574ac"
+          "Guid": "87d5a9db-da59-4a06-87e8-fbf73228065c"
         },
         "Data": {
           "$id": "982",
@@ -5557,7 +5557,7 @@
                             "y": 0.0
                           },
                           "StepType": null,
-                          "Guid": "7955a553-562e-4a0f-b31d-c5c3173dae71"
+                          "Guid": "85ce1ea8-221d-42be-a987-b10ac94ddd5f"
                         },
                         "Parent": null
                       },
@@ -5663,7 +5663,7 @@
             "y": 0.0
           },
           "StepType": "default",
-          "Guid": "4b6f1a83-348b-41fe-a530-11ed74266b2a"
+          "Guid": "b1b413bd-98a6-4b9f-b4ac-625470aa7c13"
         },
         "Data": {
           "$id": "1027",
@@ -5786,7 +5786,7 @@
       "$id": "1049",
       "$type": "VRBuilder.Core.ProcessMetadata, VRBuilder.Core",
       "StringLocalizationTable": null,
-      "Guid": "7d27c1b9-9750-41f5-9f03-f0084b80f3ca"
+      "Guid": "d6bab0e3-a92c-4ef5-aa0d-330176b72617"
     },
     "Data": {
       "$id": "1050",
@@ -5801,14 +5801,12 @@
             "ChapterMetadata": {
               "$id": "1053",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "4"
-              },
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
               },
-              "Guid": "500f7e39-8ada-4ea1-91b9-f9dcc6e8362c"
+              "Guid": "ca6d6c3f-ee39-41b6-962e-e7450d7ce59c"
             },
             "Data": {
               "$id": "1054",
@@ -5834,14 +5832,12 @@
             "ChapterMetadata": {
               "$id": "1057",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "130"
-              },
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
               },
-              "Guid": "24c05a4c-f662-49c0-acd5-fd1bd4ee742b"
+              "Guid": "2993debb-bd1d-45c1-bb8f-586d03de86e1"
             },
             "Data": {
               "$id": "1058",
@@ -5879,14 +5875,12 @@
             "ChapterMetadata": {
               "$id": "1061",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "586"
-              },
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
               },
-              "Guid": "2e16ff20-179c-4106-ab10-644337c50c4c"
+              "Guid": "a80305ef-0427-4bde-a119-19433809aff6"
             },
             "Data": {
               "$id": "1062",
@@ -5936,14 +5930,12 @@
             "ChapterMetadata": {
               "$id": "1065",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "758"
-              },
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": -35.2,
                 "y": 0.0
               },
-              "Guid": "6e941323-b251-4360-856a-1ef3a08bbcc1"
+              "Guid": "373275fb-5854-42be-8729-46ac456684ae"
             },
             "Data": {
               "$id": "1066",
@@ -5978,14 +5970,12 @@
             "ChapterMetadata": {
               "$id": "1069",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "819"
-              },
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
               },
-              "Guid": "8d93fe67-c176-4146-af1a-3195c055b74e"
+              "Guid": "964e4902-4949-4909-9a8d-7f4fe2198dfc"
             },
             "Data": {
               "$id": "1070",
@@ -6017,14 +6007,12 @@
             "ChapterMetadata": {
               "$id": "1073",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "934"
-              },
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": -21.6,
                 "y": 0.0
               },
-              "Guid": "64433e26-7e55-4cf5-a54d-f34a48d19c2a"
+              "Guid": "0db27e60-5d06-49e0-88f4-bdce0d5b0f06"
             },
             "Data": {
               "$id": "1074",
@@ -6056,14 +6044,12 @@
             "ChapterMetadata": {
               "$id": "1077",
               "$type": "VRBuilder.Core.ChapterMetadata, VRBuilder.Core",
-              "LastSelectedStep": {
-                "$ref": "1025"
-              },
+              "LastSelectedStep": null,
               "EntryNodePosition": {
                 "x": 0.0,
                 "y": 0.0
               },
-              "Guid": "f789a248-2761-40b4-8fbb-a9c5297b65e8"
+              "Guid": "fa8b671e-84dc-4b5b-9b22-4ea2d699e5fa"
             },
             "Data": {
               "$id": "1078",
