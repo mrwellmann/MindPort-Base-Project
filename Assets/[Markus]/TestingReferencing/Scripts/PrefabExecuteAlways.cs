@@ -7,6 +7,9 @@ public class PrefabExecuteAlways : MonoBehaviour
     [SerializeField]
     private string guid = string.Empty;
 
+    [SerializeField]
+    private int count = 0;
+
     public Guid Guid
     {
         get
@@ -27,14 +30,19 @@ public class PrefabExecuteAlways : MonoBehaviour
 
     protected void Awake()
     {
-        Debug.Log($"ExecuteAlways Start {this.name}, instanceID {gameObject.GetInstanceID()}, newGuid {guid} ");
+        var oldGuid = Guid;
+        Guid = Guid.NewGuid();
+        Debug.Log($"ExecuteAlways Awake {this.name}, instanceID {gameObject.GetInstanceID()}, oldGuid {oldGuid}, newGuid {Guid}");
+    }
+
+    protected void OnValidate()
+    {
+        Debug.Log($"ExecuteAlways OnValidate {this.name}, instanceID {gameObject.GetInstanceID()}, newGuid {guid} ");
     }
 
     protected void Start()
     {
-        var newGuid = Guid.NewGuid();
-        Debug.Log($"ExecuteAlways Awake {this.name}, instanceID {gameObject.GetInstanceID()}, oldGuid {guid}, newGuid {newGuid}");
-        Guid = newGuid;
+        Debug.Log($"ExecuteAlways Start {this.name}, instanceID {gameObject.GetInstanceID()}, newGuid {guid} ");
     }
 
     protected void OnEnable()
