@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/[Markus]/UIToolkit/MyCustomEditor/MyCustomEditor.uss?fileID=7433441132597879392&amp;guid=b4b51264af461b5429fe2574d1db42ad&amp;type=3#MyCustomEditor" />
+    <ui:Label tabindex="-1" text="Scene object tags:" parse-escape-sequences="true" display-tooltip-when-elided="true" />
+    <ui:Label text="Hello World! From UXML" />
+    <ui:Label text="Hello World! With Style" class="custom-label" />
+    <ui:Label tabindex="-1" text="These controls were created in UI Builder" parse-escape-sequences="true" display-tooltip-when-elided="true" />
+    <ui:Button text="This is button 1" parse-escape-sequences="true" display-tooltip-when-elided="true" name="button1" />
+    <ui:Toggle label="Number?" name="toggle1" />
+</ui:UXML>
