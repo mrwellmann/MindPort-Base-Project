@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement name="Container" style="flex-direction: row;">
+        <ui:Button text="X" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button" style="width: 20px; height: 20px; -unity-text-align: middle-center; -unity-font-style: bold;" />
+        <ui:Label tabindex="-1" text="Sphere_1_1_2" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Tag" style="-unity-text-align: middle-left; margin-left: 7px; margin-right: 5px;" />
+        <ui:Label tabindex="-1" text="(2)" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Count" style="-unity-text-align: middle-left; margin-left: 0;" />
+    </ui:VisualElement>
+</ui:UXML>
