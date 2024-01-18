@@ -56,5 +56,10 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "MindPort-Base-Project.sln"
+    "dotnet.defaultSolution": "MindPort-Base-Project.sln",
+    "cSpell.words": [
+        "Mathf",
+        "Newtonsoft",
+        "Rigidbody"
+    ]
 }
