@@ -17,11 +17,11 @@
           "$id": "5",
           "$type": "VRBuilder.Core.StepMetadata, VRBuilder.Core",
           "Position": {
-            "x": 31.0,
-            "y": 92.0
+            "x": 0.0,
+            "y": 136.0
           },
           "StepType": "default",
-          "Guid": "e7eb8237-285f-414f-b76f-fc06a0566e12"
+          "Guid": "738cbd30-0743-4203-a345-494cd0f0cc89"
         },
         "Data": {
           "$id": "6",
@@ -47,13 +47,11 @@
                       "AssignSceneObjectTags": {
                         "$id": "12",
                         "$type": "VRBuilder.Core.SceneObjects.SceneObjectReference, VRBuilder.Core",
-                        "UniqueName": "d847d5a6-c507-49ea-b64c-8fe104c6bcbd",
+                        "UniqueName": "256f24fc-789a-46cb-a235-ba5d91a2ca78",
                         "TagGuids": {
                           "$id": "13",
                           "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
-                          "$values": [
-                            "d847d5a6-c507-49ea-b64c-8fe104c6bcbd"
-                          ]
+                          "$values": []
                         }
                       },
                       "SetEnabled": true,
