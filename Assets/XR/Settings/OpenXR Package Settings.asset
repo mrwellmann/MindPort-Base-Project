@@ -52,6 +52,10 @@ MonoBehaviour:
     manifestName: cambria
     enabled: 1
   forceRemoveInternetPermission: 1
+  symmetricProjection: 0
+  systemSplashScreen: {fileID: 0}
+  lateLatchingMode: 0
+  lateLatchingDebug: 0
 --- !u!114 &-8405284824970511793
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -279,6 +283,7 @@ MonoBehaviour:
   - {fileID: -6533803793627656811}
   m_renderMode: 1
   m_depthSubmissionMode: 0
+  m_symmetricProjection: 0
 --- !u!114 &-3253862893858016542
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -765,6 +770,7 @@ MonoBehaviour:
   - {fileID: 3729832524226172338}
   m_renderMode: 1
   m_depthSubmissionMode: 0
+  m_symmetricProjection: 0
 --- !u!114 &8883630758621281973
 MonoBehaviour:
   m_ObjectHideFlags: 0
