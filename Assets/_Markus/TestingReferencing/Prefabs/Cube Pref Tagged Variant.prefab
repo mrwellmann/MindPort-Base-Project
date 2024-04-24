@@ -172,6 +172,10 @@ PrefabInstance:
       value: 12e3f8af-9f66-40ce-8872-afff2579fa69
       objectReference: {fileID: 0}
     - target: {fileID: 6736183467130250678, guid: 4f5b920e8a9e50441aa71917f7664712, type: 3}
+      propertyPath: uniqueId
+      value: b5f23988-7740-480f-aa4a-f41190611814
+      objectReference: {fileID: 0}
+    - target: {fileID: 6736183467130250678, guid: 4f5b920e8a9e50441aa71917f7664712, type: 3}
       propertyPath: tags.Array.size
       value: 2
       objectReference: {fileID: 0}

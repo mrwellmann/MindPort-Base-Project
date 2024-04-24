@@ -48,6 +48,7 @@ PlayerSettings:
   defaultScreenHeightWeb: 600
   m_StereoRenderingPath: 0
   m_ActiveColorSpace: 1
+  unsupportedMSAAFallback: 0
   m_SpriteBatchVertexThreshold: 300
   m_MTRendering: 1
   mipStripping: 0
@@ -75,6 +76,7 @@ PlayerSettings:
   androidMinimumWindowWidth: 400
   androidMinimumWindowHeight: 300
   androidFullscreenMode: 1
+  androidAutoRotationBehavior: 1
   defaultIsNativeResolution: 1
   macRetinaSupport: 1
   runInBackground: 1
@@ -135,9 +137,13 @@ PlayerSettings:
   vulkanEnableLateAcquireNextImage: 0
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
+  visionOSBundleVersion: 1.0
+  tvOSBundleVersion: 1.0
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 11400000, guid: 1906d3c88e1143d46a92c2b71bb19252, type: 2}
+  - {fileID: -6750527074413547994, guid: daba946e337849647a6fcd419684a98d, type: 2}
+  - {fileID: -4664562504718223983, guid: e8e2fc2e575c96c4db354f77726d5858, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -148,6 +154,7 @@ PlayerSettings:
   isWsaHolographicRemotingEnabled: 0
   enableFrameTimingStats: 0
   enableOpenGLProfilerGPURecorders: 1
+  allowHDRDisplaySupport: 0
   useHDRDisplay: 0
   hdrBitDepth: 0
   m_ColorGamuts: 00000000
@@ -158,6 +165,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.MindPort.VRBuilderGitImport
+    Standalone: com.MindPort.VR-Builder-Git-Import
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -495,7 +503,6 @@ PlayerSettings:
   switchScreenResolutionBehavior: 2
   switchUseCPUProfiler: 0
   switchEnableFileSystemTrace: 0
-  switchUseGOLDLinker: 0
   switchLTOSetting: 0
   switchApplicationID: 0x01004b9000490000
   switchNSODependencies: 
@@ -625,7 +632,6 @@ PlayerSettings:
   switchSocketBufferEfficiency: 4
   switchSocketInitializeEnabled: 1
   switchNetworkInterfaceManagerInitializeEnabled: 1
-  switchPlayerConnectionEnabled: 1
   switchUseNewStyleFilepaths: 1
   switchUseLegacyFmodPriorities: 0
   switchUseMicroSleepForYield: 1
@@ -744,7 +750,7 @@ PlayerSettings:
     PS5: UNITY_POST_PROCESSING_STACK_V2
     QNX: UNITY_POST_PROCESSING_STACK_V2
     Stadia: UNITY_POST_PROCESSING_STACK_V2
-    Standalone: VR_BUILDER;VR_BUILDER_ENABLE_XR_INTERACTION;VR_BUILDER_XR_INTERACTION;UNITY_POST_PROCESSING_STACK_V2;UNITY_NETCODE;USE_INPUT_SYSTEM_POSE_CONTROL
+    Standalone: VR_BUILDER;VR_BUILDER_ENABLE_XR_INTERACTION;UNITY_POST_PROCESSING_STACK_V2;UNITY_NETCODE;USE_INPUT_SYSTEM_POSE_CONTROL;UNITY_ASTOOLS_EXPERIMENTAL;VR_BUILDER_STATES_DATA;VR_BUILDER_ANIMATIONS;VR_BUILDER_XR_INTERACTION
     VisionOS: UNITY_POST_PROCESSING_STACK_V2
     WebGL: UNITY_POST_PROCESSING_STACK_V2
     Windows Store Apps: USE_INPUT_SYSTEM_POSE_CONTROL

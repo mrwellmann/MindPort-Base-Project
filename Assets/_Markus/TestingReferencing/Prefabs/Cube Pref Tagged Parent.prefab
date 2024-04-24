@@ -124,7 +124,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   uniqueName: Cube Pref Tagged Parent_2
-  guid: dfce0d67-3fef-4512-bd30-1c68b6b77e29
+  uniqueId: 8f44204a-4f56-4f70-88c4-3cb9a18e78e2
   tags:
   - 2773a755-38be-48a3-b6ad-163cbb3edc4d
 --- !u!54 &6283590398428023915
@@ -277,6 +277,10 @@ MonoBehaviour:
   m_SmoothRotation: 0
   m_SmoothRotationAmount: 5
   m_TightenRotation: 0.5
+  m_TrackScale: 1
+  m_SmoothScale: 0
+  m_SmoothScaleAmount: 8
+  m_TightenScale: 0.1
   m_ThrowOnDetach: 1
   m_ThrowSmoothingDuration: 0.25
   m_ThrowSmoothingCurve:
