@@ -1,3 +1,9 @@
+# Files from VR-Builder-Documentation https://github.com/MindPort-GmbH/VR-Builder-Documentation/tree/feature/documentation-page
+docfx*
+docfx/
+docs/
+docs*
+README.md
 # Place of Asset Store Git Repos
 Assets/MindPort/
 Assets/MindPort*
