@@ -1,27 +1,28 @@
 {
   "dependencies": {
+    "co.mindport.vrbuilder.core": "file:C:/Users/mrwel/Workspace/Unity/MindPort-Base-Project - Packages Only/Core",
+    "co.mindport.vrbuilder.menus": "file:C:/Users/mrwel/Workspace/Unity/MindPort-Base-Project - Packages Only/ProcessMenu",
     "com.madsbangh.easybuttons": "https://github.com/madsbangh/EasyButtons.git#upm",
-    "com.unity.collab-proxy": "2.2.0",
+    "com.unity.collab-proxy": "2.3.1",
     "com.unity.feature.development": "1.0.2",
     "com.unity.ide.visualstudio": "2.0.22",
     "com.unity.inputsystem": "1.7.0",
     "com.unity.localization": "1.4.4",
-    "com.unity.multiplayer.tools": "1.1.0",
-    "com.unity.netcode.gameobjects": "1.7.1",
+    "com.unity.netcode.gameobjects": "1.8.1",
     "com.unity.nuget.newtonsoft-json": "3.2.1",
     "com.unity.postprocessing": "3.4.0",
     "com.unity.services.authentication": "3.0.0",
     "com.unity.services.vivox": "15.1.210000-pre.1",
-    "com.unity.shadergraph": "14.0.10",
+    "com.unity.shadergraph": "14.0.11",
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.timeline": "1.8.2",
     "com.unity.ugui": "1.0.0",
-    "com.unity.visualscripting": "1.9.1",
+    "com.unity.visualscripting": "1.9.2",
     "com.unity.xr.hands": "1.3.0",
     "com.unity.xr.interaction.toolkit": "2.5.2",
     "com.unity.xr.management": "4.4.1",
-    "com.unity.xr.oculus": "4.1.2",
-    "com.unity.xr.openxr": "1.9.1",
+    "com.unity.xr.oculus": "4.2.0",
+    "com.unity.xr.openxr": "1.10.0",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
@@ -53,5 +54,13 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  }
+  },
+  "testables": [
+    "co.mindport.vrbuilder.core",
+    "co.mindport.vrbuilder.animations",
+    "co.mindport.vrbuilder.randomization",
+    "co.mindport.vrbuilder.statesanddata",
+    "co.mindport.vrbuilder.trackandmeasure",
+    "co.mindport.vrbuilder.menus"
+  ]
 }

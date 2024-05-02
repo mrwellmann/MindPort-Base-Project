@@ -124,7 +124,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   uniqueName: Cube Pref Ref
-  guid: f8bd776d-8743-4a2c-9012-4cacbd87af84
+  uniqueId: 434b2682-36f8-4b96-8006-e9b9b88504d0
   tags: []
 --- !u!54 &7687606019791317866
 Rigidbody:
@@ -276,6 +276,10 @@ MonoBehaviour:
   m_SmoothRotation: 0
   m_SmoothRotationAmount: 5
   m_TightenRotation: 0.5
+  m_TrackScale: 1
+  m_SmoothScale: 0
+  m_SmoothScaleAmount: 8
+  m_TightenScale: 0.1
   m_ThrowOnDetach: 0
   m_ThrowSmoothingDuration: 0.25
   m_ThrowSmoothingCurve:

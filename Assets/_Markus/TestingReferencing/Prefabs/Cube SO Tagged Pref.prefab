@@ -122,9 +122,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64582d436c5a4e84d89ba2d25709ddca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uniqueName: Cube SO Tagged_1_1_1
-  tags:
-  - 3f9dd666-1ea0-4425-9ab7-39a9e8b86ef6
+  uniqueName: 
+  uniqueId: 05602837-d8e2-454e-b1d4-be861d44042a
+  tags: []
 --- !u!54 &4661595019260964039
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -275,6 +275,10 @@ MonoBehaviour:
   m_SmoothRotation: 0
   m_SmoothRotationAmount: 5
   m_TightenRotation: 0.5
+  m_TrackScale: 1
+  m_SmoothScale: 0
+  m_SmoothScaleAmount: 8
+  m_TightenScale: 0.1
   m_ThrowOnDetach: 0
   m_ThrowSmoothingDuration: 0.25
   m_ThrowSmoothingCurve:

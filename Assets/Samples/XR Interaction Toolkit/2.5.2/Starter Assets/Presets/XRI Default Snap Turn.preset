@@ -87,7 +87,7 @@ Preset:
   - target: {fileID: 0}
     propertyPath: m_LeftHandSnapTurnAction.m_Reference
     value: 
-    objectReference: {fileID: -7374733323251553461, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    objectReference: {fileID: -7374733323251553461, guid: c348712bda248c246b8c49b3db54642f, type: 3}
   - target: {fileID: 0}
     propertyPath: m_RightHandSnapTurnAction.m_UseReference
     value: 1
@@ -127,5 +127,5 @@ Preset:
   - target: {fileID: 0}
     propertyPath: m_RightHandSnapTurnAction.m_Reference
     value: 
-    objectReference: {fileID: -8525429354371678379, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    objectReference: {fileID: -8525429354371678379, guid: c348712bda248c246b8c49b3db54642f, type: 3}
   m_ExcludedProperties: []

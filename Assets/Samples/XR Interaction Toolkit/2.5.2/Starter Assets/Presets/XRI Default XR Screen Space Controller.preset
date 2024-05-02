@@ -103,7 +103,7 @@ Preset:
   - target: {fileID: 0}
     propertyPath: m_TapStartPositionAction.m_Reference
     value: 
-    objectReference: {fileID: 2494954584338170553, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    objectReference: {fileID: 2494954584338170553, guid: c348712bda248c246b8c49b3db54642f, type: 3}
   - target: {fileID: 0}
     propertyPath: m_DragCurrentPositionAction.m_UseReference
     value: 1
@@ -143,7 +143,7 @@ Preset:
   - target: {fileID: 0}
     propertyPath: m_DragCurrentPositionAction.m_Reference
     value: 
-    objectReference: {fileID: -7530398834462728267, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    objectReference: {fileID: -7530398834462728267, guid: c348712bda248c246b8c49b3db54642f, type: 3}
   - target: {fileID: 0}
     propertyPath: m_DragDeltaAction.m_UseReference
     value: 1
@@ -183,7 +183,7 @@ Preset:
   - target: {fileID: 0}
     propertyPath: m_DragDeltaAction.m_Reference
     value: 
-    objectReference: {fileID: -3603844561257126198, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    objectReference: {fileID: -3603844561257126198, guid: c348712bda248c246b8c49b3db54642f, type: 3}
   - target: {fileID: 0}
     propertyPath: m_PinchStartPositionAction.m_UseReference
     value: 1
@@ -223,7 +223,7 @@ Preset:
   - target: {fileID: 0}
     propertyPath: m_PinchStartPositionAction.m_Reference
     value: 
-    objectReference: {fileID: 9070054806217310167, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    objectReference: {fileID: 9070054806217310167, guid: c348712bda248c246b8c49b3db54642f, type: 3}
   - target: {fileID: 0}
     propertyPath: m_PinchGapAction.m_UseReference
     value: 1
@@ -263,7 +263,7 @@ Preset:
   - target: {fileID: 0}
     propertyPath: m_PinchGapAction.m_Reference
     value: 
-    objectReference: {fileID: 3166769696172522120, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    objectReference: {fileID: 3166769696172522120, guid: c348712bda248c246b8c49b3db54642f, type: 3}
   - target: {fileID: 0}
     propertyPath: m_PinchGapDeltaAction.m_UseReference
     value: 1
@@ -303,7 +303,7 @@ Preset:
   - target: {fileID: 0}
     propertyPath: m_PinchGapDeltaAction.m_Reference
     value: 
-    objectReference: {fileID: -5112888916153672211, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    objectReference: {fileID: -5112888916153672211, guid: c348712bda248c246b8c49b3db54642f, type: 3}
   - target: {fileID: 0}
     propertyPath: m_TwistStartPositionAction.m_UseReference
     value: 1
@@ -343,7 +343,7 @@ Preset:
   - target: {fileID: 0}
     propertyPath: m_TwistStartPositionAction.m_Reference
     value: 
-    objectReference: {fileID: -1941033212670429761, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    objectReference: {fileID: -1941033212670429761, guid: c348712bda248c246b8c49b3db54642f, type: 3}
   - target: {fileID: 0}
     propertyPath: m_TwistDeltaRotationAction.m_UseReference
     value: 1
@@ -383,7 +383,7 @@ Preset:
   - target: {fileID: 0}
     propertyPath: m_TwistDeltaRotationAction.m_Reference
     value: 
-    objectReference: {fileID: -8156239294363760665, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    objectReference: {fileID: -8156239294363760665, guid: c348712bda248c246b8c49b3db54642f, type: 3}
   - target: {fileID: 0}
     propertyPath: m_ScreenTouchCountAction.m_UseReference
     value: 1
@@ -423,7 +423,7 @@ Preset:
   - target: {fileID: 0}
     propertyPath: m_ScreenTouchCountAction.m_Reference
     value: 
-    objectReference: {fileID: 4162966010302970412, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    objectReference: {fileID: 4162966010302970412, guid: c348712bda248c246b8c49b3db54642f, type: 3}
   - target: {fileID: 0}
     propertyPath: m_ControllerCamera
     value: 
