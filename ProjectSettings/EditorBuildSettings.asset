@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Markus/TestingReferencing/TestingReferencing.unity
     guid: e7b41744f8e688049884f3709daf4412
   m_configObjects:
