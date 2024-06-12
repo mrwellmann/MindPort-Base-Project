@@ -6,14 +6,6 @@
       "source": "local",
       "dependencies": {}
     },
-    "co.mindport.vrbuilder.menus": {
-      "version": "file:C:/Users/mrwel/Workspace/Unity/MindPort-Base-Project - Packages Only/ProcessMenu",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {
-        "co.mindport.vrbuilder.core": "4.0.0"
-      }
-    },
     "com.madsbangh.easybuttons": {
       "version": "https://github.com/madsbangh/EasyButtons.git#upm",
       "depth": 0,

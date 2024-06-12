@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "co.mindport.vrbuilder.core": "file:C:/Users/mrwel/Workspace/Unity/MindPort-Base-Project - Packages Only/Core",
-    "co.mindport.vrbuilder.menus": "file:C:/Users/mrwel/Workspace/Unity/MindPort-Base-Project - Packages Only/ProcessMenu",
     "com.madsbangh.easybuttons": "https://github.com/madsbangh/EasyButtons.git#upm",
     "com.unity.cloud.gltfast": "6.4.0",
     "com.unity.collab-proxy": "2.3.1",
