@@ -6752,7 +6752,8 @@
                 "x": 0.0,
                 "y": 0.0
               },
-              "Guid": "5fc899d8-cb5c-4a38-8ccf-5bc170a5b831"
+              "Guid": "5fc899d8-cb5c-4a38-8ccf-5bc170a5b831",
+              "ViewTransform": null
             },
             "Data": {
               "$id": "1178",
@@ -6783,7 +6784,8 @@
                 "x": 0.0,
                 "y": 0.0
               },
-              "Guid": "53cd98f5-7288-4cd6-aac1-d6f9d42662f9"
+              "Guid": "53cd98f5-7288-4cd6-aac1-d6f9d42662f9",
+              "ViewTransform": null
             },
             "Data": {
               "$id": "1182",
@@ -6826,7 +6828,8 @@
                 "x": 0.0,
                 "y": 0.0
               },
-              "Guid": "1eb3fcef-7d88-4639-ae1f-26b83f68c1dc"
+              "Guid": "1eb3fcef-7d88-4639-ae1f-26b83f68c1dc",
+              "ViewTransform": null
             },
             "Data": {
               "$id": "1186",
@@ -6881,7 +6884,8 @@
                 "x": -35.2,
                 "y": 0.0
               },
-              "Guid": "fa66dc89-dbc6-47ec-88cb-534ec7ce0580"
+              "Guid": "fa66dc89-dbc6-47ec-88cb-534ec7ce0580",
+              "ViewTransform": null
             },
             "Data": {
               "$id": "1190",
@@ -6921,7 +6925,8 @@
                 "x": 0.0,
                 "y": 0.0
               },
-              "Guid": "6caae853-2510-42fe-947b-4e44a41aaf26"
+              "Guid": "6caae853-2510-42fe-947b-4e44a41aaf26",
+              "ViewTransform": null
             },
             "Data": {
               "$id": "1194",
@@ -6958,7 +6963,8 @@
                 "x": -21.6,
                 "y": 0.0
               },
-              "Guid": "82c893d1-f030-4716-bea7-16cdbb5b27b5"
+              "Guid": "82c893d1-f030-4716-bea7-16cdbb5b27b5",
+              "ViewTransform": null
             },
             "Data": {
               "$id": "1198",
@@ -6995,7 +7001,8 @@
                 "x": 0.0,
                 "y": 0.0
               },
-              "Guid": "815698a8-1cb5-48c1-8ab4-303ea405fd3e"
+              "Guid": "815698a8-1cb5-48c1-8ab4-303ea405fd3e",
+              "ViewTransform": null
             },
             "Data": {
               "$id": "1202",
