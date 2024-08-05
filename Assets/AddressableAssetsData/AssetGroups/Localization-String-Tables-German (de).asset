@@ -17,14 +17,8 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 99956f802da9b944090f745128e16e2a
   m_SerializeEntries:
-  - m_GUID: d7177ac0dd4a6d240be9c7d0e49d5ec1
-    m_Address: Default Localization Table_de
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-de
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b495f861670126648b46fc28f5ca282c
-    m_Address: VR Builder Demo_de
+  - m_GUID: 5ab1b2039f286fe4794b3de0abd0339e
+    m_Address: CoreDemo_de
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-de

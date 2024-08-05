@@ -17,13 +17,8 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: aa75ce3afdced1c4eadcf91908cc90f1
   m_SerializeEntries:
-  - m_GUID: c6250d408665e9a4f9796c7c31321d67
-    m_Address: Assets/Localization/Default Localization Table Shared Data.asset
-    m_ReadOnly: 1
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ff5c515f3ff3f34419122dbb10d41923
-    m_Address: Assets/Localization/VR Builder Demo Shared Data.asset
+  - m_GUID: 9280760e653700a43b5d6745a3eceacb
+    m_Address: Assets/_Markus/Localisation/CoreDemo Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
