@@ -13,6 +13,6 @@
 [submodule "Assets/MindPort/VR Builder/Add-ons/TrackAndMeasure"]
 	path = Assets/MindPort/VR Builder/Add-ons/TrackAndMeasure
 	url = https://github.com/MindPort-GmbH/Track-and-Measure-for-VR-Builder.git
-[submodule "docfx"]
-	path = docfx
-	url = https://github.com/MindPort-GmbH/Track-and-Measure-for-VR-Builder.git
+[submodule "Docfx"]
+	path = Docfx
+	url = https://github.com/MindPort-GmbH/VR-Builder-Documentation.git
