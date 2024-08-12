@@ -1,6 +1,10 @@
-# Place of Asset Store Git Repos
-Assets/MindPort/
-Assets/MindPort*
+# link.xml artifact https://docs.unity3d.com/Packages/com.unity.addressables@1.20/manual/BuildArtifacts.html
+Assets/Addressables_Temp/
+Assets/Addressables_Temp*
+
+# Generated when using Addressables report
+Assets/AddressableAssetsData/link.xml 
+
 # Automatic generated TextToSpeech Streaming assets
 Assets/StreamingAssets/TextToSpeech/
 Assets/StreamingAssets/TextToSpeech*

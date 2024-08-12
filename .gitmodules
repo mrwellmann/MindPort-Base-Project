@@ -1,0 +1,18 @@
+[submodule "Assets/MindPort/VR Builder/Core"]
+	path = Assets/MindPort/VR Builder/Core
+	url = https://github.com/MindPort-GmbH/VR-Builder.git
+[submodule "Assets/MindPort/VR Builder/Add-ons/Animations"]
+	path = Assets/MindPort/VR Builder/Add-ons/Animations
+	url = https://github.com/MindPort-GmbH/Animations-for-VR-Builder.git
+[submodule "Assets/MindPort/VR Builder/Add-ons/ProcessMenu"]
+	path = Assets/MindPort/VR Builder/Add-ons/ProcessMenu
+	url = https://github.com/MindPort-GmbH/Process-Menu-for-VR-Builder.git
+[submodule "Assets/MindPort/VR Builder/Add-ons/StatesAndData"]
+	path = Assets/MindPort/VR Builder/Add-ons/StatesAndData
+	url = https://github.com/MindPort-GmbH/States-and-Data-for-VR-Builder.git
+[submodule "Assets/MindPort/VR Builder/Add-ons/TrackAndMeasure"]
+	path = Assets/MindPort/VR Builder/Add-ons/TrackAndMeasure
+	url = https://github.com/MindPort-GmbH/Track-and-Measure-for-VR-Builder.git
+[submodule "docfx"]
+	path = docfx
+	url = https://github.com/MindPort-GmbH/Track-and-Measure-for-VR-Builder.git
