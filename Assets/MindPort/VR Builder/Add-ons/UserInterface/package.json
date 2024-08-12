@@ -1,0 +1,32 @@
+{
+  "displayName": "VR Builder - User Interface",
+  "name": "de.lefx.vrbuilder.userinterface",
+  "version": "2.0.2",
+  "unity": "2021.1",
+  "description": "User Interface add-on for VR Builder.",
+  "dependencies": {
+    "co.mindport.vrbuilder.core": "4.0.0"    
+ },
+  "keywords": [
+    "lefx",
+    "mindport",
+    "unity",
+    "vr builder",
+    "virtual reality",
+    "vr",
+    "xr rig",
+    "user interface",
+    "ui",
+    "button",
+    "multiple choice",
+    "outline",
+    "infobox",
+    "numpad",
+    "add-on"
+  ],
+  "author": {
+    "name": "LEFX",
+    "email": "asset.contact@lefx.de",
+    "url" : "https://www.lefx.de/"
+  }
+}

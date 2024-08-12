@@ -1,0 +1,36 @@
+{
+    "name": "VRBuilder.UserInterface.AddOn",
+    "rootNamespace": "",
+    "references": [
+        "VRBuilder.Core",
+        "VRBuilder.BasicInteraction",
+        "VRBuilder.XRInteraction",
+        "VRBuilder.TextToSpeech",
+        "Unity.Localization",
+        "Unity.TextMeshPro",
+        "Unity.XR.CoreUtils",
+        "Unity.XR.Interaction.Toolkit"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.localization",
+            "expression": "1.3.2",
+            "define": "UNITY_LOCALIZATION"
+        },
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "",
+            "define": "UNITY_TEXTMESHPRO"
+        }
+    ],
+    "noEngineReferences": false
+}

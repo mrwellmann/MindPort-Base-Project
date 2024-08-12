@@ -1,0 +1,3 @@
+Please open the demo scenes the first time by selecting Tools > VR Builder > Demo Scenes > User Interface.
+This will automatically copy the demo processes to the StreamingAssets folder.
+The demo scenes will not function properly if the process cannot be found!

@@ -1,0 +1,24 @@
+{
+    "name": "VRBuilder.Editor.UserInterface.AddOn",
+    "rootNamespace": "",
+    "references": [
+        "VRBuilder.Core",
+        "VRBuilder.Editor",
+        "VRBuilder.UserInterface.AddOn",
+        "VRBuilder.TextToSpeech",
+        "Unity.TextMeshPro",
+        "Unity.Localization",
+        "Unity.Localization.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
