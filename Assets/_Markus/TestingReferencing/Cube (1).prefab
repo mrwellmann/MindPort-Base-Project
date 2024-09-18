@@ -125,6 +125,8 @@ MonoBehaviour:
   serializedGuid:
     serializedGuid: 
   uniqueName: 
+  guids:
+  - serializedGuid: 3bb817c195cae64a98754e721e0c5a64
   tags: []
 --- !u!54 &3232373580997649643
 Rigidbody:

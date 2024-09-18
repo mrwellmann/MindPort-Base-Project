@@ -209,6 +209,9 @@ MonoBehaviour:
   serializedGuid:
     serializedGuid: 
   uniqueName: 
+  guids:
+  - serializedGuid: 3bb817c195cae64a98754e721e0c5a64
+  - serializedGuid: d160efa368ccf64d8ad5af2026853968
   tags: []
 --- !u!114 &1801642517866854803
 MonoBehaviour:
